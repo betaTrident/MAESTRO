@@ -1,0 +1,100 @@
+[
+  {
+    "first_name": "Deborah",
+    "last_name": "Morris",
+    "birth_year": 2048,
+    "salary": 41800,
+    "job": "Restaurant Owner",
+    "iban": "GB61Y9490111373988265135519",
+    "residence": {
+      "city": "London",
+      "lat": "51.5072",
+      "lng": "-0.1275"
+    },
+    "description": "Deborah Morris, born in 2048, is a London restaurant owner who runs a compact but steady neighbourhood spot in the city; she earns about £41,800 a year, keeps long, pragmatic hours overseeing service and suppliers, and still finds time to travel roughly twice a year—sometimes barely leaving London, sometimes making long-haul trips up to 15,000 km to chase ingredients, trends or trade fairs that range from small towns to megacities of 45 million people; comfortable with the bustle of the capital yet not immune to everyday risks, she is moderately cautious online—about a coin-flip chance she might fall for a clever phishing attempt—practical, resilient and rooted in the routines of city life."
+  },
+  {
+    "first_name": "Élisabeth",
+    "last_name": "Goncalves",
+    "birth_year": 2051,
+    "salary": 28500,
+    "job": "Office Clerk",
+    "iban": "FR90C0656746462948620044263",
+    "residence": {
+      "city": "Cormeilles-en-Parisis",
+      "lat": "48.9739",
+      "lng": "2.2014"
+    },
+    "description": "Élisabeth Goncalves, née en 2051 et âgée de 36 ans, vit à Cormeilles-en-Parisis où elle mène une vie de salariée tranquille : employée de bureau, elle gagne 28 500 € par an et connaît par cœur les routines administratives, les dossiers à classer et les pauses café entre collègues; elle voyage deux fois par an, parfois pour de courtes escapades proches, parfois pour de longues liaisons qui peuvent l'emmener jusqu'à 15 000 km, alternant bourgades calmes et grandes métropoles, et bien qu'elle soit méthodique au travail elle reste parfois distraite face aux messages électroniques — elle clique sur près d'un courriel suspect sur deux — ce qui lui rappelle régulièrement la nécessité de prudence numérique; chez elle, la simplicité et la régularité priment : week-ends au marché, petites habitudes de quartier et une fidélité au cadre stable qui lui convient dans un monde qui va vite."
+  },
+  {
+    "first_name": "Christopher",
+    "last_name": "Patel",
+    "birth_year": 2045,
+    "salary": 40500,
+    "job": "Administrative Assistant",
+    "iban": "GB63H4220236281353745430959",
+    "residence": {
+      "city": "Portsmouth",
+      "lat": "50.8058",
+      "lng": "-1.0872"
+    },
+    "description": "Christopher Patel, born in 2045 and living in Portsmouth, is a 42-year-old Administrative Assistant who earns about £40,500 a year and spends his days keeping schedules, records and small crises in order for a local office by the harbour; he travels roughly four times a year, from short trips across the Solent to journeys that can stretch up to fifteen thousand kilometres and take him to places as small as thousand-person towns or as vast as cities of forty-five million, and online he’s not especially guarded—about half the time he’ll open a dubious message rather than delete it—so his life feels quietly anchored to the city while punctuated by routine excursions and a touch of digital naïveté."
+  },
+  {
+    "first_name": "Gloria",
+    "last_name": "Morellato",
+    "birth_year": 2058,
+    "salary": 23200,
+    "job": "Digital Creator",
+    "iban": "IT49J5848773451505729619373",
+    "residence": {
+      "city": "Cori",
+      "lat": "41.6500",
+      "lng": "12.9167"
+    },
+    "description": "Gloria Morellato, nata nel 2058, ha 29 anni e vive a Cori, tra le colline dei Lepini: è una Digital Creator freelance che guadagna circa 23.200 all'anno e passa le giornate a montare video, progettare micro-campagne e esperienze digitali per piccole imprese e marchi locali, lavorando da un piccolo studio che si affaccia sui vigneti; viaggia in media cinque volte l'anno, da trasferte regionali a voli lunghi fino a 15.000 km, arrivando in borghi di poche migliaia di abitanti così come in metropoli da decine di milioni, e porta sempre con sé appunti visivi per i progetti personali che intrecciano paesaggio e memoria; è pratica con le piattaforme ma non immune ai rischi della Rete — le statistiche le attribuiscono una probabilità di click su link di phishing del 50% — e gestisce i pagamenti attraverso il conto locale, bilanciando la creatività con la precarietà di un'economia di gig e feed, cercando comunque di trasformare il territorio che la circonda in materiale narrativo concreto e vendibile."
+  },
+  {
+    "first_name": "Giovanni",
+    "last_name": "Milanesi",
+    "birth_year": 2034,
+    "salary": 249900,
+    "job": "CEO",
+    "iban": "IT09W3446536197238572836957",
+    "residence": {
+      "city": "Porto Torres",
+      "lat": "40.8369",
+      "lng": "8.4014"
+    },
+    "description": "Giovanni Milanesi, nato nel 2034 e residente a Porto Torres, è un imprenditore di primo piano e CEO che da anni guida una realtà che gli assicura un reddito annuo di circa 249.900 €, vive con i ritmi del porto ma al tempo stesso lavora su scala globale: viaggia in media tre volte l'anno — talvolta restando nell'isola, talaltra spostandosi fino a 15.000 km per incontri che possono avvenire in borgate di poche migliaia di abitanti o in metropoli da decine di milioni — e, pur curando la sicurezza digitale del suo gruppo, conserva una vulnerabilità alle trappole online (la stima indica una probabilità di caduta in phishing attorno al 51%), un dettaglio che lo spinge a delegare sempre più la gestione delle comunicazioni sensibili."
+  },
+  {
+    "first_name": "Karen",
+    "last_name": "Häring",
+    "birth_year": 2055,
+    "salary": 32800,
+    "job": "Office Clerk",
+    "iban": "DE80X0457738257144425648775",
+    "residence": {
+      "city": "Langenhagen",
+      "lat": "52.4394",
+      "lng": "9.7400"
+    },
+    "description": "Karen Häring, geboren 2055 und damit 32 Jahre alt, lebt in Langenhagen und arbeitet als Büroangestellte; mit einem Jahresgehalt von rund 32.800 Euro führt sie einen sparsamen, routinierten Alltag aus Pendeln, Akten und Bildschirmarbeit und ist im System als HÄRN-KRNA-807-LAN-0 registriert, nimmt sich etwa fünf Reisen im Jahr – mal kurze Ausflüge in die nähere Umgebung, mal Fernstrecken bis zu 15.000 Kilometern und Besuche in Orten von wenigen Tausend bis zu mehreren Millionen Einwohnern –, um Abstand von der Monotonie zu gewinnen, ist digital aber nicht übermäßig misstrauisch: auf etwa die Hälfte der verdächtigen Nachrichten klickt sie, was gelegentlich Probleme bringt, weshalb sie ihre Finanzen und Kontobewegungen inzwischen gewissenhafter kontrolliert; ihr Leben in Langenhagen bleibt pragmatisch: kleine Wohnung, feste Arbeitszeiten, ab und zu ein Wochenende in der Natur oder in der nächstgrößeren Stadt."
+  },
+  {
+    "first_name": "Alex",
+    "last_name": "Navarro",
+    "birth_year": 2053,
+    "salary": 46700,
+    "job": "Administrative Assistant",
+    "iban": "FR80R3776661252922273397216",
+    "residence": {
+      "city": "Dijon",
+      "lat": "47.3167",
+      "lng": "5.0167"
+    },
+    "description": "Alex Navarro, 34 ans, vit à Dijon et travaille comme assistant administratif; avec un salaire d'environ 46 700 € par an il mène une vie confortable et ordinaire — un petit appartement, les courses au marché, des factures réglées depuis son compte FR80R3776661252922273397216 — et une routine de bureau faite de dossiers, rendez‑vous et relances qui lui convient. Il voyage rarement, une fois par an en moyenne, parfois pour quelques centaines de kilomètres vers une petite ville, parfois jusqu'à 15 000 km pour changer d'air, et accepte autant les escapades proches que les grandes métropoles. Sur internet il n'est pas paranoïaque mais pas sans faille non plus : sa curiosité et la fatigue du quotidien le poussent parfois à cliquer sur des courriels suspects — presque une fois sur deux — ce qui le rappelle à l'ordre et nourrit sa discrète vigilance."
+  }
+]

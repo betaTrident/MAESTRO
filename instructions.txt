@@ -1,0 +1,27 @@
+Instructions to run the program:
+
+## Create virtual environment
+- py -m venv venv
+
+## Activate venv
+- venv\scripts\Activate
+
+## Install requirements
+- pip install -r requirements.txt
+
+## Create a /data directory in root folder
+- Extract "The Truman Show - train" from .zip and store to /data
+- Do the same for other datasets
+
+## Sample run of the dataset:
+
+```bash
+python main.py --dataset The Truman Show - train
+```
+
+## Add env files
+OPENROUTER_API_KEY=
+LANGFUSE_PUBLIC_KEY=
+LANGFUSE_SECRET_KEY=
+LANGFUSE_HOST=https://challenges.reply.com/langfuse
+TEAM_NAME=

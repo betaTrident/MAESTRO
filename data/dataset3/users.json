@@ -1,0 +1,170 @@
+[
+  {
+    "first_name": "Jolanda",
+    "last_name": "Orsini",
+    "birth_year": 2049,
+    "salary": 33000,
+    "job": "Administrative Assistant",
+    "iban": "IT64J7921890704486426446082",
+    "residence": {
+      "city": "Oristano",
+      "lat": "39.9058",
+      "lng": "8.5916"
+    },
+    "description": "Jolanda Orsini, nata nel 2049 e quindi trentottenne nel 2087, vive a Oristano e lavora come Administrative Assistant: la sua giornata è fatta di pratiche e gestione digitale in un ufficio che la ripaga con uno stipendio intorno ai 33.000 euro l'anno, sufficiente per una vita modesta nella Sardegna del futuro; impiegata classica per temperamento, è puntuale, precisa e conosce ogni angolo del centro cittadino, ma non rinuncia a viaggiare: circa tre trasferte all'anno, talvolta restando in località vicine, talaltra prendendo voli che la portano fino a 15.000 km verso metropoli affollate o piccoli paesi di poche migliaia di abitanti — i suoi percorsi oscillano tra destinazioni con popolazioni da 1.000 a 45.000.000 di persone. Sul web è pragmatica ma non iperparanoica: la sua soglia di attenzione la porta a cliccare messaggi ambigui non raramente, perciò ormai verifica con colleghi o amici quando qualcosa non le torna; in città la riconoscono per il passo misurato, il sorriso contenuto e la capacità di risolvere pratiche complicate con calma, e nei viaggi emerge la curiosità che si nasconde dietro la routine dell'impiegata."
+  },
+  {
+    "first_name": "Lisa",
+    "last_name": "Marangoni",
+    "birth_year": 2059,
+    "salary": 11200,
+    "job": "Student",
+    "iban": "IT44V5630191266559730738878",
+    "residence": {
+      "city": "Rome",
+      "lat": "41.8931",
+      "lng": "12.4828"
+    },
+    "description": "Lisa Marangoni, nata nel 2059 e quindi 28 anni, è una studentessa universitaria che vive nel cuore di Roma: divide il tempo tra lezioni, ricerca e qualche turno part‑time che le porta circa 11.200 crediti l'anno, soldi che gestisce con cura sul conto (IBAN IT44V5630191266559730738878), si sposta in media tre volte l'anno—dalle brevi fughe nei borghi italiani fino a voli intercontinentali che possono raggiungere i 15.000 km per città dai mille fino ai 45 milioni di abitanti—e alterna la vita tra tram autonomi, vicoli storici e spazi studio condivisi; online è curiosa e molto attiva, non del tutto immune agli inganni digitali (ha una probabilità media di cadere in phishing), perciò impara per gradi a proteggere i propri dati, mantenendo un equilibrio pragmatico tra l'energia giovanile, la socialità romana e la costruzione di un futuro accademico."
+  },
+  {
+    "first_name": "Allegra",
+    "last_name": "Duse",
+    "birth_year": 2052,
+    "salary": 24500,
+    "job": "Ride-share Driver",
+    "iban": "IT48W2059507677482569647488",
+    "residence": {
+      "city": "Brescia",
+      "lat": "45.5389",
+      "lng": "10.2203"
+    },
+    "description": "Allegra Duse, nata nel 2052 e oggi trentacinque anni, è una driver di ride‑share che vive a Brescia e si mantiene con un reddito modesto, circa 24.500 euro l'anno; la sua giornata è fatta di turni all'alba e corse serali tra le vie del centro, la Loggia e le uscite autostradali verso la Franciacorta o Milano, conosce ogni scorciatoia e sa subito calibrare il tono con i passeggeri, dai residenti di piccoli paesi da mille anime fino a chi prende la macchina per raggiungere le grandi metropoli. Si concede in media cinque viaggi organizzati all'anno, a volte brevi trasferte e altre volte spostamenti che possono superare i quindicimila chilometri, perché nonostante la vita da gig worker non rinuncia a esplorare; è pratica, attenta al bilancio e generosa con chi resta a piedi, ma tende anche a fidarsi della tecnologia che usa quotidianamente, tanto che ogni tanto cade in qualche trappola online e poi risistema tutto con la stessa concretezza con cui aggiusta il suo programma di corse."
+  },
+  {
+    "first_name": "Justin",
+    "last_name": "Cooper",
+    "birth_year": 2041,
+    "salary": 82800,
+    "job": "Business Manager",
+    "iban": "US47Z6403826620357133598189",
+    "residence": {
+      "city": "Mesa",
+      "lat": "33.4015",
+      "lng": "-111.7178"
+    },
+    "description": "Justin Cooper, 46, lives in Mesa, Arizona, where sun-browned neighborhoods and solar canopies frame a city built to cope with heat; as a Business Manager earning $82,800 he keeps a pragmatic, efficiency-first approach to work, coordinating teams and budgets and averaging about three business trips a year—sometimes cross-town meetings, sometimes long-haul flights up to 15,000 miles to places that range from thousand-person towns to forty-five-million–strong megacities. He keeps his corporate account listed under US47Z6403826620357133598189, moves through itineraries with a rehearsed calm and the occasional rush, and despite company training his inbox is a pressure point—he still clicks convincing phishing links roughly half the time, so he leans on an assistant AI to triage messages and double-check decisions before folding back into Mesa’s routine of neighborhood cafés and commuter corridors between trips."
+  },
+  {
+    "first_name": "Ugolino",
+    "last_name": "Torricelli",
+    "birth_year": 2048,
+    "salary": 12400,
+    "job": "Delivery Worker",
+    "iban": "IT61O7478273526783920968535",
+    "residence": {
+      "city": "Montepulciano",
+      "lat": "43.1000",
+      "lng": "11.7833"
+    },
+    "description": "Ugolino Torricelli, nato nel 2048 e oggi trentanovenne, abita a Montepulciano e si mantiene come delivery worker nella dura economia dei gig del 2087 con un salario di 12.400 crediti annui; conosce a memoria le salite lastricate tra le cantine e i vicoli del paese, parte all'alba sul suo furgoncino cargo con HUD per consegnare pacchi e generi, arrangiandosi con riparazioni improvvisate e rapporti personali con i clienti, fa in media un viaggio all'anno che può portarlo dal borgo da mille abitanti fino a metropoli da decine di milioni — anche a migliaia di chilometri di distanza — e, pur essendo pratico e abituato alla fatica, non è impermeabile alle trappole digitali: usa un tablet economico per i turni e ogni tanto cade in offerte e phishing, ma resta saldo nella sua routine quotidiana e nel legame con la comunità locale."
+  },
+  {
+    "first_name": "Jose",
+    "last_name": "Foster",
+    "birth_year": 2041,
+    "salary": 266300,
+    "job": "Investor",
+    "iban": "US49H3835130205791348337095",
+    "residence": {
+      "city": "Glens Falls North",
+      "lat": "43.3350",
+      "lng": "-73.6832"
+    },
+    "description": "Jose Foster, born in 2041, is a 46-year-old investor and top entrepreneur based in Glens Falls North who earns about $266,300 a year and keeps a compact, efficient life out of a renovated riverside loft while running a small team that moves his portfolio; he travels twice a year—sometimes not leaving town, sometimes flying as far as 15,000 km to inspect deals in places that range from thousand-person settlements to megacities of 45 million—and in the corporatized, permit-heavy markets of 2087 he combines pragmatic risk-taking with a wide network, though his online habits are imperfect (he has roughly a 49% tendency to click phishing lures), so he relies on trusted human gatekeepers to vet sensitive communications."
+  },
+  {
+    "first_name": "Reza",
+    "last_name": "Geißler",
+    "birth_year": 2062,
+    "salary": 7100,
+    "job": "Student",
+    "iban": "DE14B6504056353831234112065",
+    "residence": {
+      "city": "Frankfurt",
+      "lat": "50.1106",
+      "lng": "8.6822"
+    },
+    "description": "Reza Geißler, geboren 2062 und damit 25 Jahre alt, ist Student in Frankfurt und bestreitet sein Leben mit einem monatlichen Einkommen von 7.100, das ihm Studium und Reisen erlaubt; viermal im Jahr verlässt er die Stadt, mal für kurze Trips in Kleinstädte, mal für Fernflüge bis zu 15.000 km in Metropolen, und er fühlt sich sowohl in den Glasfassaden und Cafés am Main als auch unterwegs zuhause; online ist er manchmal unvorsichtig und klickt leichter auf zweifelhafte Links (etwa 50 Prozent), doch im Alltag wirkt er pragmatisch, anpassungsfähig und zielgerichtet."
+  },
+  {
+    "first_name": "Adrien",
+    "last_name": "Klein",
+    "birth_year": 2051,
+    "salary": 25600,
+    "job": "Freelance Designer",
+    "iban": "FR61F0634146104155866387659",
+    "residence": {
+      "city": "Challans",
+      "lat": "46.8467",
+      "lng": "-1.8781"
+    },
+    "description": "Adrien Klein, né en 2051 et installé à Challans, est un designer freelance de 36 ans qui vit modestement avec un revenu annuel d'environ 25 600 €, aménage son atelier entre la côte vendéenne et ses commandes numériques, part en moyenne deux voyages par an — parfois de courts séjours dans des bourgs tranquilles, parfois des trajets jusqu'à 15 000 km vers des métropoles de dizaines de millions d'habitants — et entretient un rapport pratique mais parfois naïf au monde numérique, avouant cliquer sur des liens douteux environ une fois sur deux ; méthodique dans ses projets, il alterne identité visuelle et interfaces, préfère la tranquillité de Challans après des escales bruyantes et trouve ici l'espace pour penser et rendre ses créations vraiment utiles."
+  },
+  {
+    "first_name": "Capucine",
+    "last_name": "Le Gall",
+    "birth_year": 2046,
+    "salary": 51800,
+    "job": "Retail Entrepreneur",
+    "iban": "FR36J6742286936678404341761",
+    "residence": {
+      "city": "Paris",
+      "lat": "48.8567",
+      "lng": "2.3522"
+    },
+    "description": "Capucine Le Gall, née en 2046, est une entrepreneure du commerce de détail installée à Paris; à 41 ans elle pilote une petite chaîne de boutiques qui mêlent expérience physique et présence numérique, avec un revenu annuel d'environ 51 800 €, et elle voyage en moyenne cinq fois par an — tantôt de courts trajets dans et autour de la ville, tantôt déplacements lointains jusqu'à 15 000 km pour sourcer des fournisseurs ou dénicher des tendances, des communautés de 1 000 habitants aux mégapoles de 45 millions —; pragmatique et tournée vers le terrain, elle gère équipes et stocks avec assurance, mais reste consciente d'une certaine vulnérabilité aux arnaques en ligne (sa probabilité de cliquer sur un lien de phishing est estimée à ≈51 %), ce qui la pousse à améliorer progressivement ses pratiques de sécurité tout en continuant d'affiner son exigence pour le commerce parisien."
+  },
+  {
+    "first_name": "Ottone",
+    "last_name": "Pisaroni",
+    "birth_year": 2050,
+    "salary": 27800,
+    "job": "Administrative Assistant",
+    "iban": "IT59S4659338574752609545458",
+    "residence": {
+      "city": "Bologna",
+      "lat": "44.4939",
+      "lng": "11.3428"
+    },
+    "description": "Ottone Pisaroni, nato nel 2050 e oggi trentasettenne, vive a Bologna e passa le giornate come assistente amministrativo in un ufficio della città: gestisce pratiche, bollette e flussi informatici con uno stipendio annuo di circa 27.800 euro, ricevendo pagamenti sul conto identificato dall'IBAN IT59S4659338574752609545458; è persona abitudinaria e pratica, ama la routine dei portici bolognesi e si concede un solo viaggio all'anno — a volte verso metropoli molto affollate anche a 15.000 km di distanza — e, nella fretta quotidiana e nella fiducia nel digitale, tende a essere poco prudente con le comunicazioni sospette (la sua propensione a cliccare su messaggi ingannevoli è intorno al 51%)."
+  },
+  {
+    "first_name": "Flora",
+    "last_name": "Antonetti",
+    "birth_year": 2031,
+    "salary": 44100,
+    "job": "Retail Entrepreneur",
+    "iban": "IT28P6021578764264282769979",
+    "residence": {
+      "city": "Castagneto Carducci",
+      "lat": "43.1667",
+      "lng": "10.6000"
+    },
+    "description": "Flora Antonetti, nata nel 2031 e quindi 56 anni nel 2087, è un'imprenditrice del retail che gestisce a Castagneto Carducci una realtà commerciale locale: con un reddito annuo intorno a 44.100 euro tiene insieme fornitori, clienti e personale, preferendo il contatto diretto nelle vie del borgo ma usando strumenti digitali per gli ordini e la contabilità; viaggia raramente, circa una volta all'anno, talvolta per brevi trasferte in paesi piccoli e talvolta fino a metropoli a migliaia di chilometri di distanza (fino a 15.000 km), e sebbene sia pratica con la tecnologia non è del tutto immune agli inganni online — ha una certa propensione a cadere in messaggi sospetti — e affida le transazioni a un conto bancario italiano per gestire gli incassi del negozio."
+  },
+  {
+    "first_name": "Rosario",
+    "last_name": "Pacetti",
+    "birth_year": 2053,
+    "salary": 25400,
+    "job": "Office Clerk",
+    "iban": "IT72L9905912045674421158342",
+    "residence": {
+      "city": "Montefiascone",
+      "lat": "42.5333",
+      "lng": "12.0333"
+    },
+    "description": "Rosario Pacetti, nato nel 2053 e oggi trentquattrenne, vive a Montefiascone e lavora come impiegato d'ufficio: la sua giornata è fatta di pratiche, scartoffie digitali e piccoli compiti amministrativi, con uno stipendio annuo di 25.400 euro che gli viene accreditato sul conto (IBAN IT72L9905912045674421158342). Abitudini semplici — un caffè prima dell'ufficio e una passeggiata sul colle che guarda il Lago di Bolsena — e un carattere metodico lo rendono affidabile sul lavoro, ma in materia di sicurezza digitale ha una certa tendenza a fidarsi delle comunicazioni urgenti (la sua probabilità stimata di cliccare phishing è intorno al 49%), per cui spesso si affida ai colleghi quando appare qualcosa di sospetto. Viaggia solo una volta l'anno, di solito per staccare la spina: può trattarsi di una breve fuga in Italia o di un viaggio più lontano fino a quindicimila chilometri, alternando mete di poche migliaia di abitanti e occasionali grandi città affollate; nel complesso preferisce la sicurezza e la routine del suo paese, dove trova stabilità e piccoli piaceri quotidiani."
+  }
+]

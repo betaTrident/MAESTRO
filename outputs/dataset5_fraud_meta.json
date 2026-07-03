@@ -1,0 +1,259 @@
+{
+  "dataset": "dataset5",
+  "session_id": "AKAI-01KPBVJCAVGPWNH2WCWNS4YR3C",
+  "total_transactions": 14672,
+  "candidate_transactions": 60,
+  "predicted_fraud_count": 60,
+  "predicted_fraud_economic_sum": 55054.3,
+  "top_decisions": [
+    {
+      "transaction_id": "b82ee120-0321-4530-92dc-1bc3301a5f2d",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 708.51,
+      "router_risk": 0.9599999999999999,
+      "reason": "New recipient, high amount, and geo mismatch."
+    },
+    {
+      "transaction_id": "5c87abc4-9347-4a57-8e70-b41b7116701f",
+      "is_fraud": true,
+      "confidence": 0.85,
+      "economic_risk": 370.2,
+      "router_risk": 0.9299999999999999,
+      "reason": "New recipient, high amount, and geo mismatch."
+    },
+    {
+      "transaction_id": "56d7a523-6b50-4976-8b12-ec0a4312b181",
+      "is_fraud": true,
+      "confidence": 0.85,
+      "economic_risk": 737.38,
+      "router_risk": 0.9299999999999999,
+      "reason": "New recipient with geo mismatch and recent suspicious messages."
+    },
+    {
+      "transaction_id": "b5a426b8-7ef5-4689-b7c0-ad320dba28fe",
+      "is_fraud": true,
+      "confidence": 0.85,
+      "economic_risk": 183.14,
+      "router_risk": 0.8999999999999999,
+      "reason": "New recipient with geo mismatch and unusual transaction amount."
+    },
+    {
+      "transaction_id": "2ffcc648-9109-4644-be6b-45fa25a5ff57",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 295.65,
+      "router_risk": 0.8999999999999999,
+      "reason": "new recipient, geo mismatch, and suspicious recent messages"
+    },
+    {
+      "transaction_id": "30bedd88-725b-4e4a-84f9-257acbf44586",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 566.89,
+      "router_risk": 0.8999999999999999,
+      "reason": "New recipient, high amount, and geo mismatch"
+    },
+    {
+      "transaction_id": "4fe25f68-a9d7-43f6-bfb6-6322a415810b",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 747.04,
+      "router_risk": 0.8999999999999999,
+      "reason": "Unusual transaction amount and new recipient with geo mismatch."
+    },
+    {
+      "transaction_id": "1800bc15-c146-498d-b969-b7daa81fd671",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 699.8,
+      "router_risk": 0.8799999999999999,
+      "reason": "New recipient, high amount, and suspicious activity detected."
+    },
+    {
+      "transaction_id": "a90d664c-fe9b-4c74-8e26-d19b30e19c79",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 681.08,
+      "router_risk": 0.8799999999999999,
+      "reason": "New recipient, high amount, and geo mismatch."
+    },
+    {
+      "transaction_id": "e2ccc43e-69ea-4040-94d2-3d7a6976e304",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 382.23,
+      "router_risk": 0.85,
+      "reason": "Transaction to a new recipient with geo mismatch and recent suspicious activity."
+    },
+    {
+      "transaction_id": "449ec9ed-04a0-474a-a5eb-68a233d6b01d",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 369.75,
+      "router_risk": 0.85,
+      "reason": "Unusual transaction pattern with new recipient and geo mismatch."
+    },
+    {
+      "transaction_id": "0e060817-10d8-44ef-bf63-80e08b3b00ba",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 291.11,
+      "router_risk": 0.85,
+      "reason": "Transaction to a new recipient with geo mismatch and recent suspicious messages."
+    },
+    {
+      "transaction_id": "320f113c-ce8d-41aa-a0f1-c8d27bc95254",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 55.29,
+      "router_risk": 0.85,
+      "reason": "New recipient, geo mismatch, and suspicious recent messages indicate potential fraud."
+    },
+    {
+      "transaction_id": "55f70261-7ae1-42eb-9652-6f079a7e4b1f",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 1838.24,
+      "router_risk": 0.85,
+      "reason": "New recipient, high amount, and off-hours transaction"
+    },
+    {
+      "transaction_id": "a0052199-e16f-498b-bb1b-ce3f92796160",
+      "is_fraud": true,
+      "confidence": 0.85,
+      "economic_risk": 625.81,
+      "router_risk": 0.82,
+      "reason": "Transaction to a new recipient with a high amount and geo mismatch."
+    },
+    {
+      "transaction_id": "3d88426c-02e7-405c-a67a-3a941ee8698c",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 747.1,
+      "router_risk": 0.82,
+      "reason": "Transaction to a new recipient with geo mismatch and recent suspicious activity."
+    },
+    {
+      "transaction_id": "6eab842d-7513-405d-8154-89a107b22de4",
+      "is_fraud": true,
+      "confidence": 0.85,
+      "economic_risk": 363.25,
+      "router_risk": 0.82,
+      "reason": "New recipient, high amount, and geo mismatch."
+    },
+    {
+      "transaction_id": "55f13a93-f036-42ad-b5df-4854e5d47216",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 374.07,
+      "router_risk": 0.7899999999999999,
+      "reason": "New recipient, high amount, and geo mismatch."
+    },
+    {
+      "transaction_id": "9756069d-2366-4c40-a214-fa2c71767b88",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 19.63,
+      "router_risk": 0.7799999999999999,
+      "reason": "New recipient, high amount compared to recent transactions, and multiple suspicious messages."
+    },
+    {
+      "transaction_id": "a83290b7-c4c4-4c1b-a59d-6d676b99f3b7",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 25.57,
+      "router_risk": 0.7799999999999999,
+      "reason": "New recipient and multiple recent suspicious messages."
+    },
+    {
+      "transaction_id": "7046f3f8-b9a5-4a87-a4b4-62c7eff12db1",
+      "is_fraud": true,
+      "confidence": 0.95,
+      "economic_risk": 19556.97,
+      "router_risk": 0.77,
+      "reason": "High amount, new recipient, and suspicious activity detected."
+    },
+    {
+      "transaction_id": "fb830b32-d1eb-4a2d-9e5b-c1ce770c2204",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 576.08,
+      "router_risk": 0.74,
+      "reason": "New recipient, high amount, and geo mismatch."
+    },
+    {
+      "transaction_id": "37cfac92-8374-4366-8c4f-24ef24782e28",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 905.07,
+      "router_risk": 0.74,
+      "reason": "Unusual loan payment to a new recipient with high amount"
+    },
+    {
+      "transaction_id": "e11f390a-71b1-42d3-b88d-8c38802d1d7f",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 1904.54,
+      "router_risk": 0.74,
+      "reason": "High amount, new recipient, and unusual transaction pattern."
+    },
+    {
+      "transaction_id": "e9f2f9ee-0e78-4217-aaa7-41c8edb473c5",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 2555.31,
+      "router_risk": 0.74,
+      "reason": "High amount, new recipient, and no recurring pattern."
+    },
+    {
+      "transaction_id": "630ca12e-522c-4711-8497-fd3db44f681a",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 537.83,
+      "router_risk": 0.74,
+      "reason": "New recipient, high amount, and geo mismatch."
+    },
+    {
+      "transaction_id": "ffc901bb-417e-4114-8656-f7ff17902028",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 331.08,
+      "router_risk": 0.74,
+      "reason": "New recipient, high amount, and geo mismatch."
+    },
+    {
+      "transaction_id": "abdd35d4-25f7-4ff6-97cb-66d99ddb411c",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 38.78,
+      "router_risk": 0.74,
+      "reason": "New recipient, geo mismatch, and recent suspicious activity."
+    },
+    {
+      "transaction_id": "20261327-5235-4945-a169-fcf5100c390c",
+      "is_fraud": true,
+      "confidence": 0.85,
+      "economic_risk": 708.61,
+      "router_risk": 0.74,
+      "reason": "New recipient and high amount with no prior transactions."
+    },
+    {
+      "transaction_id": "e3318aa0-069f-4d0d-92c2-46e1464fe742",
+      "is_fraud": true,
+      "confidence": 0.9,
+      "economic_risk": 354.83,
+      "router_risk": 0.74,
+      "reason": "Transaction to a new recipient with geo mismatch and recent suspicious activity."
+    }
+  ],
+  "metrics": {
+    "session_id": "AKAI-01KPBVJCAVGPWNH2WCWNS4YR3C",
+    "latency": 101.66905860020779,
+    "total_cost": 0.0175833,
+    "llm_calls": 60,
+    "input_tokens": 117686,
+    "output_tokens": 3404,
+    "total_tokens": 121090
+  }
+}

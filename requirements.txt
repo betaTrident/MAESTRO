@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langfuse
+transformers
+torch
+accelerate
+python-dotenv
+ulid-py

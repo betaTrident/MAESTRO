@@ -1,0 +1,44 @@
+[
+  {
+    "first_name": "Amir",
+    "last_name": "Jopich",
+    "birth_year": 2055,
+    "salary": 20800,
+    "job": "Ride-share Driver",
+    "iban": "DE56A8157935165453667074321",
+    "residence": {
+      "city": "Freiburg im Breisgau",
+      "lat": "47.9950",
+      "lng": "7.8500"
+    },
+    "description": "Amir Jopich, geboren 2055 und damit 32 Jahre alt, ist ein Ride‑Share‑Fahrer in Freiburg im Breisgau, der die steilen Wege zum Schlossberg, die ruhigen Vororte und die belebten Marktstraßen instinktiv kennt; er lebt von der fragmentierten Gig‑Ökonomie und kommt mit rund 20.800 Euro Jahresverdienst knapp über die Runden, startet früh, pflegt sein Fahrzeug selbst und verlässt sich auf Vermittler‑Apps, die ihm Fahrten zuführen, reist im Schnitt nur einmal im Jahr weiter weg — manchmal bis zu 15.000 Kilometern, wenn seltene Familienbesuche oder eine kurze Auszeit anstehen — und landet dabei sowohl in kleinen Gemeinden als auch in Millionenstädten; digital ist er pragmatisch und aufmerksam, aber nicht unfehlbar: verlockende Nachrichten und Angebote lösen bei ihm etwa in der Hälfte der Fälle eine Reaktion aus, weil schnelle Klicks oft zusätzliche Einnahmen bedeuten; trotz der Unsicherheit hat er sich eine nüchterne Gelassenheit bewahrt, kennt die besten Werkstätten, die Uhrzeiten mit leereren Straßen und geht mit zurückhaltender Freundlichkeit auf seine Fahrgäste zu, weil Vertrauen in einer Stadt wie Freiburg mehr zählt als ein gutes Rating."
+  },
+  {
+    "first_name": "Sabrina",
+    "last_name": "Wood",
+    "birth_year": 2059,
+    "salary": 15000,
+    "job": "Student",
+    "iban": "US10M0977189859998247489900",
+    "residence": {
+      "city": "Fort Collins",
+      "lat": "40.5477",
+      "lng": "-105.0656"
+    },
+    "description": "Sabrina Wood is a 28-year-old student in Fort Collins who balances classes and a modest income of about $15,000 a year, knows the foothills and coffee shops well, and travels roughly six times a year—sometimes short escapes to nearby towns, sometimes long trips that take her to places both small and megacity-sized—managing her finances pragmatically and staying generally tech-savvy though occasionally susceptible to clever phishing attempts, a steady, curious presence rooted in Colorado but often on the move."
+  },
+  {
+    "first_name": "Lisette",
+    "last_name": "Werner",
+    "birth_year": 2059,
+    "salary": 10600,
+    "job": "Student",
+    "iban": "DE87B2644480490493818481218",
+    "residence": {
+      "city": "Huckelhoven",
+      "lat": "51.0608",
+      "lng": "6.2197"
+    },
+    "description": "Lisette Werner, 2059 geboren und damit 28 Jahre alt, lebt als Studentin in Huckelhoven und bestimmt ihren Alltag zwischen Vorlesungen an einer Hochschule der Region und Nebenjobs: mit einem Jahreseinkommen von etwa 10.600 Euro kommt sie sparsam zurecht, gönnt sich aber drei Reisen im Jahr, von Wochenendausflügen in die umliegenden Orte bis zu Fernreisen von bis zu 15.000 Kilometern, also Ziele von kleinem Ort bis zur großen Metropole; sie ist neugierig auf andere Städte und Kulturen, organisiert ihre Finanzen praktisch, wirkt im Umgang mit Technik meist umsichtig, lässt sich aber gelegentlich von überzeugenden Online-Angeboten blenden."
+  }
+]

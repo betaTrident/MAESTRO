@@ -1,0 +1,5616 @@
+[
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-01T13:21:55",
+    "lat": 47.9779,
+    "lng": 7.8956,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-02T07:10:41",
+    "lat": 47.9555,
+    "lng": 7.803,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-03T18:11:37",
+    "lat": 47.9914,
+    "lng": 7.7976,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-04T20:16:38",
+    "lat": 48.0058,
+    "lng": 7.8768,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-05T15:28:11",
+    "lat": 48.0336,
+    "lng": 7.8446,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-06T23:06:33",
+    "lat": 47.9896,
+    "lng": 7.8312,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-08T05:04:26",
+    "lat": 47.986,
+    "lng": 7.8151,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-10T00:33:25",
+    "lat": 47.9725,
+    "lng": 7.9077,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-12T15:55:39",
+    "lat": 47.9968,
+    "lng": 7.8299,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-13T09:34:14",
+    "lat": 48.0193,
+    "lng": 7.8003,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-14T07:58:13",
+    "lat": 47.9555,
+    "lng": 7.8648,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-19T12:42:21",
+    "lat": 47.9869,
+    "lng": 7.9037,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-20T12:22:30",
+    "lat": 47.9851,
+    "lng": 7.8205,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-21T16:48:50",
+    "lat": 48.0318,
+    "lng": 7.897,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-22T16:56:10",
+    "lat": 48.013,
+    "lng": 7.8862,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-23T01:25:32",
+    "lat": 47.9501,
+    "lng": 7.7909,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-24T13:33:28",
+    "lat": 47.9887,
+    "lng": 7.9091,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-26T23:01:02",
+    "lat": 48.0139,
+    "lng": 7.8379,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-27T12:17:27",
+    "lat": 48.0031,
+    "lng": 7.8903,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-28T02:51:24",
+    "lat": 48.0255,
+    "lng": 7.8473,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-29T02:11:31",
+    "lat": 48.0291,
+    "lng": 7.8044,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-01-31T18:40:48",
+    "lat": 47.9896,
+    "lng": 7.8621,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-01T11:10:54",
+    "lat": 47.9959,
+    "lng": 7.8876,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-02T20:23:42",
+    "lat": 48.0211,
+    "lng": 7.901,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-04T19:07:55",
+    "lat": 48.0202,
+    "lng": 7.8513,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-06T16:15:32",
+    "lat": 47.9627,
+    "lng": 7.7909,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-07T00:13:10",
+    "lat": 48.0184,
+    "lng": 7.7909,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-08T03:55:09",
+    "lat": 48.0049,
+    "lng": 7.9077,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-09T03:46:39",
+    "lat": 48.0237,
+    "lng": 7.8648,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-10T13:26:34",
+    "lat": 47.9941,
+    "lng": 7.7936,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-12T18:48:36",
+    "lat": 47.9528,
+    "lng": 7.7909,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-13T10:43:29",
+    "lat": 48.0013,
+    "lng": 7.8782,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-14T01:39:55",
+    "lat": 48.0345,
+    "lng": 7.8151,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-15T07:51:38",
+    "lat": 47.9734,
+    "lng": 7.8916,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-16T21:01:18",
+    "lat": 47.9923,
+    "lng": 7.9104,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-18T10:04:09",
+    "lat": 48.03,
+    "lng": 7.8017,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-21T16:16:30",
+    "lat": 48.0291,
+    "lng": 7.7869,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-22T16:45:03",
+    "lat": 48.0219,
+    "lng": 7.9117,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-23T02:49:27",
+    "lat": 48.0121,
+    "lng": 7.8956,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-24T06:15:53",
+    "lat": 47.9833,
+    "lng": 7.8594,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-25T02:45:00",
+    "lat": 48.0318,
+    "lng": 7.8675,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-26T12:34:57",
+    "lat": 48.0237,
+    "lng": 7.8178,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-02-27T10:28:17",
+    "lat": 47.9681,
+    "lng": 7.7842,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-01T21:28:42",
+    "lat": 47.9878,
+    "lng": 7.846,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-02T19:57:15",
+    "lat": 47.9537,
+    "lng": 7.8178,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-03T23:29:25",
+    "lat": 47.9618,
+    "lng": 7.8178,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-04T04:56:19",
+    "lat": 47.9815,
+    "lng": 7.9158,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-05T10:31:35",
+    "lat": 48.0193,
+    "lng": 7.8124,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-06T11:16:08",
+    "lat": 47.9636,
+    "lng": 7.893,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-07T09:24:00",
+    "lat": 48.0076,
+    "lng": 7.799,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-08T08:29:40",
+    "lat": 47.9501,
+    "lng": 7.8956,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-10T07:28:14",
+    "lat": 48.0058,
+    "lng": 7.8406,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-11T17:32:54",
+    "lat": 48.0031,
+    "lng": 7.8621,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-13T03:29:13",
+    "lat": 47.9797,
+    "lng": 7.8205,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-15T04:08:13",
+    "lat": 47.9815,
+    "lng": 7.8742,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-16T03:45:31",
+    "lat": 47.9564,
+    "lng": 7.8728,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-17T01:50:26",
+    "lat": 48.0372,
+    "lng": 7.7923,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-18T17:05:02",
+    "lat": 47.9609,
+    "lng": 7.85,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-19T16:46:50",
+    "lat": 48.0202,
+    "lng": 7.8715,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-20T19:23:57",
+    "lat": 47.9752,
+    "lng": 7.8675,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-21T19:56:56",
+    "lat": 47.9707,
+    "lng": 7.7936,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-22T02:25:21",
+    "lat": 48.0381,
+    "lng": 7.8111,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-26T18:44:39",
+    "lat": 47.9654,
+    "lng": 7.9064,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-27T10:41:15",
+    "lat": 47.977,
+    "lng": 7.7923,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-28T07:40:47",
+    "lat": 47.9591,
+    "lng": 7.8983,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-29T15:49:13",
+    "lat": 32.15,
+    "lng": 34.8833,
+    "city": "Hod HaSharon"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-03-30T22:28:55",
+    "lat": 32.1734,
+    "lng": 34.9342,
+    "city": "Hod HaSharon"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-01T09:17:58",
+    "lat": 32.1931,
+    "lng": 34.913,
+    "city": "Hod HaSharon"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-02T09:59:14",
+    "lat": 32.1527,
+    "lng": 34.9013,
+    "city": "Hod HaSharon"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-03T06:36:50",
+    "lat": 32.1159,
+    "lng": 34.878,
+    "city": "Hod HaSharon"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-04T00:47:28",
+    "lat": 32.1069,
+    "lng": 34.8462,
+    "city": "Hod HaSharon"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-05T03:21:05",
+    "lat": 32.1653,
+    "lng": 34.8419,
+    "city": "Hod HaSharon"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-10T12:07:55",
+    "lat": 47.9734,
+    "lng": 7.8272,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-11T06:03:23",
+    "lat": 48.0103,
+    "lng": 7.8567,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-12T12:06:47",
+    "lat": 48.0381,
+    "lng": 7.8782,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-14T22:24:48",
+    "lat": 48.0255,
+    "lng": 7.9077,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-15T09:48:33",
+    "lat": 47.977,
+    "lng": 7.8299,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-16T11:19:45",
+    "lat": 47.9932,
+    "lng": 7.8742,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-17T16:43:01",
+    "lat": 48.004,
+    "lng": 7.8849,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-18T02:09:30",
+    "lat": 47.9591,
+    "lng": 7.8084,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-19T11:34:35",
+    "lat": 48.0354,
+    "lng": 7.8312,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-20T16:43:32",
+    "lat": 47.9519,
+    "lng": 7.8232,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-21T15:46:12",
+    "lat": 47.9716,
+    "lng": 7.8339,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-23T06:43:06",
+    "lat": 47.995,
+    "lng": 7.8218,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-24T03:20:21",
+    "lat": 47.9609,
+    "lng": 7.8634,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-25T17:00:02",
+    "lat": 48.0381,
+    "lng": 7.8594,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-26T13:13:19",
+    "lat": 47.9842,
+    "lng": 7.8151,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-27T01:40:10",
+    "lat": 48.0175,
+    "lng": 7.8312,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-28T12:40:41",
+    "lat": 48.039,
+    "lng": 7.8661,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-29T23:53:07",
+    "lat": 47.9681,
+    "lng": 7.8111,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-04-30T11:15:10",
+    "lat": 47.951,
+    "lng": 7.795,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-01T18:23:04",
+    "lat": 47.9725,
+    "lng": 7.9131,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-03T16:24:13",
+    "lat": 47.9959,
+    "lng": 7.8084,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-04T14:30:39",
+    "lat": 48.0309,
+    "lng": 7.8218,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-06T08:49:17",
+    "lat": 48.0112,
+    "lng": 7.8205,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-07T01:49:41",
+    "lat": 48.0318,
+    "lng": 7.8446,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-09T15:44:58",
+    "lat": 47.9914,
+    "lng": 7.7909,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-11T08:03:43",
+    "lat": 48.0139,
+    "lng": 7.8513,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-12T08:20:09",
+    "lat": 47.9716,
+    "lng": 7.8191,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-13T16:43:09",
+    "lat": 48.0345,
+    "lng": 7.8272,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-15T01:08:32",
+    "lat": 47.9797,
+    "lng": 7.8581,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-16T10:34:43",
+    "lat": 48.004,
+    "lng": 7.7936,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-18T15:36:35",
+    "lat": 47.9752,
+    "lng": 7.8607,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-20T12:42:04",
+    "lat": 47.9995,
+    "lng": 7.8352,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-21T22:01:39",
+    "lat": 48.0067,
+    "lng": 7.8487,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-22T05:22:08",
+    "lat": 48.0237,
+    "lng": 7.846,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-23T11:05:33",
+    "lat": 47.9815,
+    "lng": 7.8581,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-24T03:20:50",
+    "lat": 47.9519,
+    "lng": 7.795,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-25T18:51:38",
+    "lat": 48.0237,
+    "lng": 7.7909,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-26T21:49:49",
+    "lat": 48.0345,
+    "lng": 7.8285,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-27T13:24:24",
+    "lat": 48.0291,
+    "lng": 7.8943,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-28T20:29:24",
+    "lat": 48.0031,
+    "lng": 7.8809,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-29T23:36:30",
+    "lat": 48.0211,
+    "lng": 7.8755,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-30T04:23:54",
+    "lat": 47.9537,
+    "lng": 7.8178,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-05-31T15:06:48",
+    "lat": 47.9501,
+    "lng": 7.7896,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-01T14:37:36",
+    "lat": 47.9528,
+    "lng": 7.8675,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-03T20:26:30",
+    "lat": 47.9528,
+    "lng": 7.8956,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-04T09:23:20",
+    "lat": 48.0354,
+    "lng": 7.8003,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-05T03:07:58",
+    "lat": 48.0237,
+    "lng": 7.8916,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-06T21:38:02",
+    "lat": 47.9941,
+    "lng": 7.9104,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-09T19:21:25",
+    "lat": 47.9914,
+    "lng": 7.901,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-10T10:28:45",
+    "lat": 47.9824,
+    "lng": 7.8943,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-12T20:13:07",
+    "lat": 47.9564,
+    "lng": 7.8768,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-14T05:00:10",
+    "lat": 48.0193,
+    "lng": 7.807,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-17T01:18:23",
+    "lat": 48.0058,
+    "lng": 7.9131,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-18T17:36:21",
+    "lat": 47.9761,
+    "lng": 7.8513,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-19T13:17:31",
+    "lat": 48.0076,
+    "lng": 7.8607,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-20T18:19:04",
+    "lat": 48.0237,
+    "lng": 7.8325,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-21T20:50:01",
+    "lat": 47.977,
+    "lng": 7.7856,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-22T17:25:22",
+    "lat": 48.0246,
+    "lng": 7.8675,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-23T12:49:25",
+    "lat": 48.0076,
+    "lng": 7.8285,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-24T17:18:45",
+    "lat": 47.9986,
+    "lng": 7.8675,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-25T07:17:07",
+    "lat": 47.9797,
+    "lng": 7.8178,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-26T04:24:49",
+    "lat": 47.9968,
+    "lng": 7.8675,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-27T15:02:40",
+    "lat": 48.0363,
+    "lng": 7.8849,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-29T10:24:07",
+    "lat": 47.9896,
+    "lng": 7.8057,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-06-30T01:17:45",
+    "lat": 48.0013,
+    "lng": 7.854,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-02T14:13:22",
+    "lat": 48.0193,
+    "lng": 7.9077,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-04T10:29:56",
+    "lat": 48.0139,
+    "lng": 7.7856,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-06T04:25:58",
+    "lat": 47.9797,
+    "lng": 7.8419,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-07T19:43:18",
+    "lat": 47.9896,
+    "lng": 7.8513,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-08T18:19:34",
+    "lat": 48.004,
+    "lng": 7.8715,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-09T09:16:15",
+    "lat": 47.9537,
+    "lng": 7.8983,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-10T09:28:59",
+    "lat": 47.9546,
+    "lng": 7.8406,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-11T03:33:47",
+    "lat": 47.9824,
+    "lng": 7.8755,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-12T17:50:18",
+    "lat": 48.0381,
+    "lng": 7.8111,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-13T09:58:57",
+    "lat": 48.0363,
+    "lng": 7.8352,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-14T13:44:22",
+    "lat": 47.9645,
+    "lng": 7.8822,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-15T15:17:25",
+    "lat": 47.9887,
+    "lng": 7.8487,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-16T09:55:21",
+    "lat": 48.0282,
+    "lng": 7.8446,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-18T21:33:52",
+    "lat": 48.0237,
+    "lng": 7.8675,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-20T13:19:59",
+    "lat": 48.0121,
+    "lng": 7.7923,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-22T16:02:33",
+    "lat": 48.0336,
+    "lng": 7.9104,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-25T22:13:24",
+    "lat": 47.9914,
+    "lng": 7.8285,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-26T13:05:30",
+    "lat": 48.0049,
+    "lng": 7.8352,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-27T13:44:18",
+    "lat": 48.0022,
+    "lng": 7.9064,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-28T12:33:57",
+    "lat": 47.9959,
+    "lng": 7.9158,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-29T08:57:24",
+    "lat": 48.0219,
+    "lng": 7.8567,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-30T08:24:43",
+    "lat": 47.951,
+    "lng": 7.8325,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-07-31T01:54:04",
+    "lat": 47.96,
+    "lng": 7.7829,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-02T19:31:05",
+    "lat": 47.9959,
+    "lng": 7.795,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-04T07:27:04",
+    "lat": 48.0246,
+    "lng": 7.8097,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-06T06:42:48",
+    "lat": 47.9591,
+    "lng": 7.9144,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-09T09:51:18",
+    "lat": 48.0076,
+    "lng": 7.7829,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-10T02:54:16",
+    "lat": 48.0031,
+    "lng": 7.8446,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-11T04:09:59",
+    "lat": 48.0121,
+    "lng": 7.8419,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-12T04:58:36",
+    "lat": 47.9564,
+    "lng": 7.9104,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-13T09:06:34",
+    "lat": 48.0309,
+    "lng": 7.8017,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-14T20:02:02",
+    "lat": 47.9537,
+    "lng": 7.8715,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-15T10:51:40",
+    "lat": 48.0031,
+    "lng": 7.854,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-16T04:17:52",
+    "lat": 47.9689,
+    "lng": 7.8728,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-17T21:10:45",
+    "lat": 48.0264,
+    "lng": 7.8527,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-20T04:50:14",
+    "lat": 47.9627,
+    "lng": 7.8473,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-21T13:22:47",
+    "lat": 48.0031,
+    "lng": 7.7909,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-23T03:23:07",
+    "lat": 47.9779,
+    "lng": 7.8513,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-24T01:00:28",
+    "lat": 47.9761,
+    "lng": 7.8742,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-25T00:27:20",
+    "lat": 47.9672,
+    "lng": 7.8997,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-26T00:31:08",
+    "lat": 48.0148,
+    "lng": 7.8675,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-28T08:47:42",
+    "lat": 47.9689,
+    "lng": 7.8581,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-08-31T10:37:14",
+    "lat": 47.9842,
+    "lng": 7.795,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-01T04:27:08",
+    "lat": 48.004,
+    "lng": 7.905,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-02T20:22:22",
+    "lat": 48.0031,
+    "lng": 7.8862,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-03T19:19:11",
+    "lat": 47.9707,
+    "lng": 7.85,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-04T06:54:11",
+    "lat": 48.0345,
+    "lng": 7.7923,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-06T11:54:59",
+    "lat": 48.0372,
+    "lng": 7.901,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-07T18:29:24",
+    "lat": 47.9842,
+    "lng": 7.8997,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-09T07:54:53",
+    "lat": 47.9564,
+    "lng": 7.7883,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-11T03:48:59",
+    "lat": 47.96,
+    "lng": 7.8138,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-12T07:17:30",
+    "lat": 47.9941,
+    "lng": 7.8836,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-14T00:52:33",
+    "lat": 47.9564,
+    "lng": 7.8111,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-16T16:44:03",
+    "lat": 47.9806,
+    "lng": 7.7976,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-17T08:09:38",
+    "lat": 48.0049,
+    "lng": 7.8567,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-18T18:24:29",
+    "lat": 47.9941,
+    "lng": 7.8419,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-19T23:36:28",
+    "lat": 47.9914,
+    "lng": 7.8379,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-20T23:05:18",
+    "lat": 48.0121,
+    "lng": 7.8339,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-21T07:16:28",
+    "lat": 48.0372,
+    "lng": 7.9131,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-23T14:46:38",
+    "lat": 47.9734,
+    "lng": 7.8205,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-24T14:24:07",
+    "lat": 47.9788,
+    "lng": 7.8983,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-25T18:16:47",
+    "lat": 47.9537,
+    "lng": 7.905,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-29T11:41:02",
+    "lat": 48.0157,
+    "lng": 7.7883,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-09-30T04:15:26",
+    "lat": 48.0049,
+    "lng": 7.8594,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-01T18:40:09",
+    "lat": 48.0103,
+    "lng": 7.803,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-02T14:45:58",
+    "lat": 48.0237,
+    "lng": 7.897,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-03T13:55:17",
+    "lat": 48.0058,
+    "lng": 7.8836,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-05T14:47:53",
+    "lat": 48.0318,
+    "lng": 7.7856,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-06T03:48:40",
+    "lat": 47.9564,
+    "lng": 7.8191,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-07T01:22:32",
+    "lat": 47.9977,
+    "lng": 7.8567,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-08T13:34:58",
+    "lat": 48.0148,
+    "lng": 7.8889,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-10T04:51:52",
+    "lat": 47.9797,
+    "lng": 7.8607,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-11T02:17:22",
+    "lat": 47.9806,
+    "lng": 7.8903,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-13T08:21:33",
+    "lat": 47.9609,
+    "lng": 7.8822,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-14T17:25:36",
+    "lat": 48.0237,
+    "lng": 7.846,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-15T15:16:03",
+    "lat": 48.0013,
+    "lng": 7.8218,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-16T21:37:23",
+    "lat": 47.9707,
+    "lng": 7.8862,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-18T00:05:39",
+    "lat": 47.9788,
+    "lng": 7.8178,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-19T14:03:35",
+    "lat": 47.9914,
+    "lng": 7.8218,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-20T11:29:18",
+    "lat": 47.9689,
+    "lng": 7.8889,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-21T09:25:40",
+    "lat": 47.9824,
+    "lng": 7.9064,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-23T15:34:29",
+    "lat": 48.0103,
+    "lng": 7.8191,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-24T03:21:51",
+    "lat": 48.0318,
+    "lng": 7.8594,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-25T23:23:34",
+    "lat": 48.0246,
+    "lng": 7.7869,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-26T14:36:40",
+    "lat": 47.9618,
+    "lng": 7.8003,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-27T21:54:49",
+    "lat": 47.9654,
+    "lng": 7.8701,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-28T13:29:25",
+    "lat": 48.0193,
+    "lng": 7.8782,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-30T21:24:32",
+    "lat": 47.9932,
+    "lng": 7.8111,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-10-31T18:01:13",
+    "lat": 48.0202,
+    "lng": 7.8084,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-01T13:26:05",
+    "lat": 47.9681,
+    "lng": 7.7842,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-02T09:30:33",
+    "lat": 48.0381,
+    "lng": 7.8205,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-03T11:28:58",
+    "lat": 47.9833,
+    "lng": 7.8889,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-04T19:35:14",
+    "lat": 47.9761,
+    "lng": 7.8594,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-06T03:15:56",
+    "lat": 47.9618,
+    "lng": 7.8621,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-07T02:57:25",
+    "lat": 47.9663,
+    "lng": 7.8232,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-08T13:01:52",
+    "lat": 48.013,
+    "lng": 7.8232,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-09T04:07:51",
+    "lat": 47.9752,
+    "lng": 7.9024,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-10T20:52:56",
+    "lat": 47.9842,
+    "lng": 7.9104,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-11T06:36:15",
+    "lat": 47.9977,
+    "lng": 7.8567,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-12T21:10:40",
+    "lat": 47.9725,
+    "lng": 7.9064,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-13T21:15:38",
+    "lat": 47.9725,
+    "lng": 7.8325,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-15T23:02:11",
+    "lat": 47.977,
+    "lng": 7.7963,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-16T22:46:59",
+    "lat": 47.9815,
+    "lng": 7.8916,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-17T02:43:19",
+    "lat": 47.9761,
+    "lng": 7.8379,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-18T13:38:57",
+    "lat": 47.9519,
+    "lng": 7.905,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-19T00:08:38",
+    "lat": 48.0085,
+    "lng": 7.7842,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-20T17:38:31",
+    "lat": 47.9779,
+    "lng": 7.7936,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-21T17:39:30",
+    "lat": 48.0139,
+    "lng": 7.8057,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-22T00:36:24",
+    "lat": 47.9734,
+    "lng": 7.8688,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-23T23:07:34",
+    "lat": 47.951,
+    "lng": 7.8419,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-24T03:50:43",
+    "lat": 48.0336,
+    "lng": 7.8688,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-25T16:01:44",
+    "lat": 47.9815,
+    "lng": 7.8138,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-26T17:41:50",
+    "lat": 47.9842,
+    "lng": 7.8594,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-11-27T20:46:28",
+    "lat": 47.9645,
+    "lng": 7.893,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-01T02:00:11",
+    "lat": 47.9555,
+    "lng": 7.9158,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-05T07:13:23",
+    "lat": 48.0291,
+    "lng": 7.8325,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-06T21:03:38",
+    "lat": 47.986,
+    "lng": 7.8097,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-07T03:37:20",
+    "lat": 47.9528,
+    "lng": 7.8715,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-08T21:28:24",
+    "lat": 47.9716,
+    "lng": 7.8285,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-09T08:04:05",
+    "lat": 48.0112,
+    "lng": 7.8178,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-11T05:01:04",
+    "lat": 48.0121,
+    "lng": 7.8433,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-12T01:27:23",
+    "lat": 47.9743,
+    "lng": 7.8325,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-15T03:51:38",
+    "lat": 47.9968,
+    "lng": 7.8594,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-16T12:42:27",
+    "lat": 47.9995,
+    "lng": 7.8527,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-17T09:58:34",
+    "lat": 47.9734,
+    "lng": 7.7842,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-20T09:00:28",
+    "lat": 48.0327,
+    "lng": 7.8956,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-21T00:08:17",
+    "lat": 48.0228,
+    "lng": 7.8822,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-22T07:20:14",
+    "lat": 47.9851,
+    "lng": 7.7856,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-23T00:46:54",
+    "lat": 47.9555,
+    "lng": 7.905,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-24T00:18:38",
+    "lat": 48.004,
+    "lng": 7.8795,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-26T15:53:02",
+    "lat": 47.9645,
+    "lng": 7.8581,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-27T08:07:31",
+    "lat": 48.0264,
+    "lng": 7.7856,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-29T19:11:30",
+    "lat": 48.0103,
+    "lng": 7.807,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "JPCH-MRAI-807-FRE-0",
+    "timestamp": "2087-12-31T07:58:45",
+    "lat": 48.0175,
+    "lng": 7.8433,
+    "city": "Freiburg im Breisgau"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-01T00:23:06",
+    "lat": 40.5576,
+    "lng": -105.1164,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-02T05:20:33",
+    "lat": 40.5639,
+    "lng": -105.0798,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-03T02:14:14",
+    "lat": 40.5477,
+    "lng": -105.094,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-04T00:02:01",
+    "lat": 40.5181,
+    "lng": -105.0325,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-07T14:22:30",
+    "lat": 40.5666,
+    "lng": -105.036,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-08T01:28:52",
+    "lat": 40.5648,
+    "lng": -105.1141,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-09T05:57:03",
+    "lat": 40.5594,
+    "lng": -105.0892,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-11T01:16:18",
+    "lat": 40.5279,
+    "lng": -105.0207,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-12T22:50:34",
+    "lat": 40.5118,
+    "lng": -105.0159,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-13T19:10:27",
+    "lat": 40.5827,
+    "lng": -105.0384,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-14T18:02:53",
+    "lat": 40.5558,
+    "lng": -105.0207,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-15T10:50:03",
+    "lat": 40.5836,
+    "lng": -105.0999,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-16T08:00:59",
+    "lat": 40.5729,
+    "lng": -105.0136,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-17T12:05:19",
+    "lat": 40.519,
+    "lng": -105.1188,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-18T04:50:52",
+    "lat": 40.5711,
+    "lng": -105.094,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-19T06:13:56",
+    "lat": 40.5854,
+    "lng": -105.0112,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-21T18:05:29",
+    "lat": 40.5315,
+    "lng": -105.0751,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-22T06:02:22",
+    "lat": 40.5432,
+    "lng": -105.023,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-24T08:19:42",
+    "lat": 40.5423,
+    "lng": -105.0278,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-25T13:18:14",
+    "lat": 40.5432,
+    "lng": -105.1034,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-26T03:07:41",
+    "lat": 40.5441,
+    "lng": -105.1247,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-27T16:09:27",
+    "lat": 40.589,
+    "lng": -105.1011,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-28T02:50:14",
+    "lat": 40.5208,
+    "lng": -105.1058,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-29T20:52:31",
+    "lat": 40.5657,
+    "lng": -105.0975,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-01-30T20:21:43",
+    "lat": 40.5576,
+    "lng": -105.081,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-01T03:11:03",
+    "lat": 40.5558,
+    "lng": -105.0538,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-03T14:26:23",
+    "lat": 40.5729,
+    "lng": -105.0715,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-06T21:04:08",
+    "lat": 40.5675,
+    "lng": -105.0833,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-07T17:47:52",
+    "lat": 40.527,
+    "lng": -105.1105,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-08T19:46:25",
+    "lat": 40.5639,
+    "lng": -105.0751,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-10T16:54:28",
+    "lat": 7.7957,
+    "lng": 124.202,
+    "city": "Bayang"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-14T02:49:38",
+    "lat": 7.775,
+    "lng": 124.1467,
+    "city": "Bayang"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-15T20:50:24",
+    "lat": 7.7535,
+    "lng": 124.2337,
+    "city": "Bayang"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-16T06:08:12",
+    "lat": 7.8065,
+    "lng": 124.1784,
+    "city": "Bayang"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-18T11:45:37",
+    "lat": 7.8271,
+    "lng": 124.2038,
+    "city": "Bayang"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-22T06:34:41",
+    "lat": 40.519,
+    "lng": -105.0431,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-23T13:24:01",
+    "lat": 40.5881,
+    "lng": -105.0479,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-25T04:39:58",
+    "lat": 40.5675,
+    "lng": -105.1117,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-02-28T14:22:49",
+    "lat": 40.5082,
+    "lng": -105.0952,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-01T22:22:40",
+    "lat": 40.5234,
+    "lng": -105.0751,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-02T06:30:08",
+    "lat": 40.5145,
+    "lng": -105.036,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-04T17:52:40",
+    "lat": 40.5558,
+    "lng": -105.0242,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-05T12:36:09",
+    "lat": 40.5315,
+    "lng": -105.0266,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-06T01:35:33",
+    "lat": 40.5046,
+    "lng": -105.023,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-07T08:27:37",
+    "lat": 40.5908,
+    "lng": -105.0585,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-08T16:06:56",
+    "lat": 40.5549,
+    "lng": -105.049,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-09T18:40:25",
+    "lat": 40.5208,
+    "lng": -105.0242,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-11T20:31:36",
+    "lat": 40.5127,
+    "lng": -105.0148,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-12T15:33:55",
+    "lat": 40.5567,
+    "lng": -105.0325,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-13T21:30:19",
+    "lat": 40.589,
+    "lng": -105.0632,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-14T02:06:12",
+    "lat": 40.5791,
+    "lng": -105.0242,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-15T14:35:13",
+    "lat": 40.5315,
+    "lng": -105.0952,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-16T21:10:29",
+    "lat": 40.5414,
+    "lng": -105.0254,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-17T16:45:23",
+    "lat": 40.5378,
+    "lng": -105.0159,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-18T11:50:24",
+    "lat": 40.5369,
+    "lng": -105.1046,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-19T13:13:31",
+    "lat": 40.5261,
+    "lng": -105.055,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-20T04:50:56",
+    "lat": 40.5225,
+    "lng": -105.0857,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-21T18:53:34",
+    "lat": 40.5782,
+    "lng": -105.0526,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-22T03:41:02",
+    "lat": 40.5567,
+    "lng": -105.1188,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-23T10:37:23",
+    "lat": 40.572,
+    "lng": -105.0845,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-25T14:48:46",
+    "lat": 40.5549,
+    "lng": -105.0833,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-26T00:48:45",
+    "lat": 40.5872,
+    "lng": -105.0219,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-27T19:56:42",
+    "lat": 40.5639,
+    "lng": -105.0219,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-29T19:59:23",
+    "lat": 40.5621,
+    "lng": -105.0904,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-30T23:48:08",
+    "lat": 40.5881,
+    "lng": -105.0526,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-03-31T06:26:00",
+    "lat": 40.5657,
+    "lng": -105.1046,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-01T21:37:40",
+    "lat": 40.5172,
+    "lng": -105.0313,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-02T07:10:11",
+    "lat": 40.5468,
+    "lng": -105.0195,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-05T23:56:12",
+    "lat": 40.5522,
+    "lng": -105.0514,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-06T17:55:55",
+    "lat": 40.5549,
+    "lng": -105.055,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-07T02:18:37",
+    "lat": 40.5657,
+    "lng": -105.0585,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-08T08:52:28",
+    "lat": 40.5908,
+    "lng": -105.0869,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-10T15:13:39",
+    "lat": 40.5055,
+    "lng": -105.0502,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-12T02:32:09",
+    "lat": 40.572,
+    "lng": -105.1093,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-13T14:37:10",
+    "lat": 40.5234,
+    "lng": -105.0928,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-14T14:00:37",
+    "lat": 40.5243,
+    "lng": -105.049,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-17T15:38:31",
+    "lat": 40.5863,
+    "lng": -105.1164,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-18T10:26:05",
+    "lat": 40.5082,
+    "lng": -105.0443,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-19T14:10:08",
+    "lat": 40.5064,
+    "lng": -105.0242,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-20T21:51:24",
+    "lat": 40.5603,
+    "lng": -105.1153,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-21T17:22:24",
+    "lat": 40.5863,
+    "lng": -105.1164,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-23T13:18:34",
+    "lat": 40.5028,
+    "lng": -105.0975,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-24T14:08:34",
+    "lat": 40.5576,
+    "lng": -105.0561,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-25T12:23:07",
+    "lat": 40.5648,
+    "lng": -105.0171,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-26T22:38:56",
+    "lat": 40.5576,
+    "lng": -105.0561,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-27T19:16:32",
+    "lat": 40.572,
+    "lng": -105.055,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-29T00:10:19",
+    "lat": 40.5917,
+    "lng": -105.0869,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-04-30T00:31:00",
+    "lat": 40.572,
+    "lng": -105.0987,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-02T20:49:52",
+    "lat": 40.5522,
+    "lng": -105.0148,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-03T17:32:40",
+    "lat": 40.5216,
+    "lng": -105.0621,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-05T22:25:56",
+    "lat": 40.5091,
+    "lng": -105.1176,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-06T13:44:45",
+    "lat": 40.5468,
+    "lng": -105.1164,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-07T23:47:41",
+    "lat": 40.536,
+    "lng": -105.0254,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-08T12:23:57",
+    "lat": 40.5199,
+    "lng": -105.0455,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-11T02:02:58",
+    "lat": 40.5082,
+    "lng": -105.0089,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-12T08:40:01",
+    "lat": 40.5791,
+    "lng": -105.1046,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-13T13:00:25",
+    "lat": 40.572,
+    "lng": -105.0219,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-14T21:13:50",
+    "lat": 40.5181,
+    "lng": -105.0325,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-15T12:56:27",
+    "lat": 40.5118,
+    "lng": -105.0715,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-16T10:45:30",
+    "lat": -4.1333,
+    "lng": 29.8,
+    "city": "Makamba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-18T18:26:22",
+    "lat": -4.1647,
+    "lng": 29.8063,
+    "city": "Makamba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-19T07:59:40",
+    "lat": -4.1611,
+    "lng": 29.7631,
+    "city": "Makamba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-20T15:56:02",
+    "lat": -4.171,
+    "lng": 29.8423,
+    "city": "Makamba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-21T05:28:22",
+    "lat": -4.1297,
+    "lng": 29.8234,
+    "city": "Makamba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-22T08:11:30",
+    "lat": -4.1189,
+    "lng": 29.7892,
+    "city": "Makamba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-25T01:13:04",
+    "lat": -4.1782,
+    "lng": 29.8198,
+    "city": "Makamba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-27T15:52:51",
+    "lat": 40.5396,
+    "lng": -105.0833,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-28T10:14:20",
+    "lat": 40.5558,
+    "lng": -105.1212,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-05-31T12:45:52",
+    "lat": 40.5872,
+    "lng": -105.0159,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-01T07:21:57",
+    "lat": 40.5136,
+    "lng": -105.0892,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-03T20:42:12",
+    "lat": 40.5477,
+    "lng": -105.0148,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-04T20:50:07",
+    "lat": 40.5172,
+    "lng": -105.068,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-05T00:35:26",
+    "lat": 40.5064,
+    "lng": -105.0372,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-06T05:48:38",
+    "lat": 40.5594,
+    "lng": -105.0762,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-07T14:09:12",
+    "lat": 40.5118,
+    "lng": -105.0337,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-08T12:00:50",
+    "lat": 40.5279,
+    "lng": -105.0325,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-10T18:19:25",
+    "lat": 40.5612,
+    "lng": -105.0266,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-11T20:51:18",
+    "lat": 40.5109,
+    "lng": -105.0077,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-12T15:33:47",
+    "lat": 40.5684,
+    "lng": -105.055,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-13T09:04:45",
+    "lat": 40.5791,
+    "lng": -105.081,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-14T18:49:37",
+    "lat": 40.5109,
+    "lng": -105.0183,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-15T13:45:26",
+    "lat": 40.5486,
+    "lng": -105.0301,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-16T10:39:56",
+    "lat": 40.5243,
+    "lng": -105.0892,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-17T03:01:06",
+    "lat": 40.5315,
+    "lng": -105.042,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-18T20:19:00",
+    "lat": 40.5621,
+    "lng": -105.0455,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-19T06:57:34",
+    "lat": 40.5216,
+    "lng": -105.1164,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-20T23:24:16",
+    "lat": 43.1836,
+    "lng": 3.0042,
+    "city": "Narbonne"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-22T19:02:20",
+    "lat": 43.1836,
+    "lng": 2.9894,
+    "city": "Narbonne"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-24T15:22:15",
+    "lat": 43.1791,
+    "lng": 3.0449,
+    "city": "Narbonne"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-25T09:32:46",
+    "lat": 43.1719,
+    "lng": 2.9463,
+    "city": "Narbonne"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-26T09:37:10",
+    "lat": 43.1495,
+    "lng": 2.9857,
+    "city": "Narbonne"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-27T10:58:48",
+    "lat": 43.2159,
+    "lng": 3.019,
+    "city": "Narbonne"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-29T05:05:05",
+    "lat": 43.1558,
+    "lng": 3.0547,
+    "city": "Narbonne"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-06-30T00:19:52",
+    "lat": 43.1575,
+    "lng": 2.9796,
+    "city": "Narbonne"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-01T00:56:23",
+    "lat": 40.5234,
+    "lng": -105.1105,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-04T15:36:04",
+    "lat": 40.5791,
+    "lng": -105.1011,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-05T06:13:58",
+    "lat": 40.5423,
+    "lng": -105.0124,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-06T13:08:22",
+    "lat": 40.5234,
+    "lng": -105.0266,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-07T21:13:21",
+    "lat": 40.5127,
+    "lng": -105.1223,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-08T12:26:35",
+    "lat": 40.5738,
+    "lng": -105.0538,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-09T03:03:32",
+    "lat": 40.5791,
+    "lng": -105.0077,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-10T18:09:55",
+    "lat": 40.5486,
+    "lng": -105.0869,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-11T00:47:32",
+    "lat": 40.5109,
+    "lng": -105.0585,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-12T17:56:50",
+    "lat": 40.5477,
+    "lng": -105.0857,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-13T04:01:37",
+    "lat": 40.5199,
+    "lng": -105.0124,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-14T08:44:39",
+    "lat": 40.5782,
+    "lng": -105.0845,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-15T23:50:08",
+    "lat": 40.5297,
+    "lng": -105.0455,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-16T21:34:34",
+    "lat": 40.5441,
+    "lng": -105.0219,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-17T15:52:44",
+    "lat": 40.5459,
+    "lng": -105.0632,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-18T06:49:46",
+    "lat": 40.5082,
+    "lng": -105.0904,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-20T09:21:05",
+    "lat": 40.5279,
+    "lng": -105.068,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-21T12:14:49",
+    "lat": 40.5199,
+    "lng": -105.1117,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-22T12:53:31",
+    "lat": 40.5791,
+    "lng": -105.0455,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-23T11:20:56",
+    "lat": 40.5432,
+    "lng": -105.0881,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-26T04:16:38",
+    "lat": 40.5225,
+    "lng": -105.0467,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-29T00:01:07",
+    "lat": 40.5818,
+    "lng": -105.0278,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-30T10:23:20",
+    "lat": 40.5531,
+    "lng": -105.0254,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-07-31T15:47:19",
+    "lat": 40.5827,
+    "lng": -105.0963,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-01T14:08:50",
+    "lat": 40.5738,
+    "lng": -105.1046,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-02T03:32:14",
+    "lat": 40.5746,
+    "lng": -105.0089,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-04T13:47:11",
+    "lat": 40.5585,
+    "lng": -105.0845,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-05T18:06:32",
+    "lat": 40.536,
+    "lng": -105.042,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-06T09:58:31",
+    "lat": 40.5684,
+    "lng": -105.1223,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-07T00:02:44",
+    "lat": 40.5441,
+    "lng": -105.0869,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-08T04:01:28",
+    "lat": 40.5854,
+    "lng": -105.1058,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-09T07:51:19",
+    "lat": 40.5657,
+    "lng": -105.1022,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-10T03:21:33",
+    "lat": 40.5881,
+    "lng": -105.0514,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-11T07:41:34",
+    "lat": 40.5729,
+    "lng": -105.042,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-13T23:54:48",
+    "lat": 40.5118,
+    "lng": -105.0597,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-14T04:01:58",
+    "lat": 40.5243,
+    "lng": -105.0928,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-17T06:08:55",
+    "lat": 38.501,
+    "lng": -121.4125,
+    "city": "Lemon Hill"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-18T03:27:04",
+    "lat": 38.5298,
+    "lng": -121.4366,
+    "city": "Lemon Hill"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-20T14:06:06",
+    "lat": 38.501,
+    "lng": -121.4711,
+    "city": "Lemon Hill"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-21T13:20:35",
+    "lat": 38.5477,
+    "lng": -121.4699,
+    "city": "Lemon Hill"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-22T12:24:58",
+    "lat": 38.5316,
+    "lng": -121.509,
+    "city": "Lemon Hill"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-24T10:26:32",
+    "lat": 38.5136,
+    "lng": -121.4998,
+    "city": "Lemon Hill"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-25T04:05:57",
+    "lat": 38.537,
+    "lng": -121.4114,
+    "city": "Lemon Hill"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-26T17:58:53",
+    "lat": 40.5531,
+    "lng": -105.0183,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-27T05:50:48",
+    "lat": 40.5414,
+    "lng": -105.0703,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-28T22:17:13",
+    "lat": 40.5746,
+    "lng": -105.094,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-29T19:49:54",
+    "lat": 40.5854,
+    "lng": -105.0526,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-30T08:48:38",
+    "lat": 40.5558,
+    "lng": -105.1141,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-08-31T12:42:14",
+    "lat": 40.5809,
+    "lng": -105.0916,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-01T04:54:14",
+    "lat": 40.5109,
+    "lng": -105.1082,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-03T09:29:45",
+    "lat": 40.5423,
+    "lng": -105.0585,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-05T11:33:23",
+    "lat": 40.5154,
+    "lng": -105.0928,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-06T12:47:30",
+    "lat": 40.5441,
+    "lng": -105.1212,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-09T13:48:19",
+    "lat": 40.5225,
+    "lng": -105.0396,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-12T21:17:58",
+    "lat": 40.5863,
+    "lng": -105.0715,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-13T12:47:46",
+    "lat": 40.5567,
+    "lng": -105.0455,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-15T18:32:21",
+    "lat": 40.5576,
+    "lng": -105.0207,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-18T16:25:15",
+    "lat": 40.5046,
+    "lng": -105.0881,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-19T21:51:45",
+    "lat": 40.5342,
+    "lng": -105.0975,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-20T04:25:43",
+    "lat": 40.5414,
+    "lng": -105.0739,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-21T01:25:10",
+    "lat": 40.5225,
+    "lng": -105.0408,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-22T21:47:59",
+    "lat": 40.5028,
+    "lng": -105.0089,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-23T00:42:24",
+    "lat": 40.5612,
+    "lng": -105.0609,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-24T06:33:17",
+    "lat": 40.5585,
+    "lng": -105.0869,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-25T07:30:04",
+    "lat": 40.5764,
+    "lng": -105.0833,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-26T11:14:47",
+    "lat": 40.5603,
+    "lng": -105.068,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-27T11:22:47",
+    "lat": 40.5243,
+    "lng": -105.0668,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-28T12:21:48",
+    "lat": 40.5567,
+    "lng": -105.0987,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-09-29T01:19:42",
+    "lat": 40.5324,
+    "lng": -105.0136,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-01T12:32:15",
+    "lat": 40.5531,
+    "lng": -105.036,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-02T08:15:23",
+    "lat": 40.5746,
+    "lng": -105.01,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-04T21:20:35",
+    "lat": 40.5306,
+    "lng": -105.0384,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-06T00:23:46",
+    "lat": 40.5324,
+    "lng": -105.1011,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-07T01:05:24",
+    "lat": 40.5791,
+    "lng": -105.0337,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-08T22:03:42",
+    "lat": 40.5288,
+    "lng": -105.0928,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-09T14:59:35",
+    "lat": 40.5225,
+    "lng": -105.0538,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-10T03:31:47",
+    "lat": 40.5369,
+    "lng": -105.0762,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-11T18:25:58",
+    "lat": 40.5172,
+    "lng": -105.1082,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-13T22:08:10",
+    "lat": 40.5621,
+    "lng": -105.0443,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-15T02:07:17",
+    "lat": 40.5917,
+    "lng": -105.0573,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-16T14:11:32",
+    "lat": 40.5154,
+    "lng": -105.0443,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-17T12:50:53",
+    "lat": 40.5333,
+    "lng": -105.0963,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-23T08:46:15",
+    "lat": 38.9541,
+    "lng": -76.9594,
+    "city": "Hyattsville"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-24T23:57:47",
+    "lat": 38.9909,
+    "lng": -76.9248,
+    "city": "Hyattsville"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-25T00:35:51",
+    "lat": 38.9613,
+    "lng": -76.9814,
+    "city": "Hyattsville"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-27T16:21:01",
+    "lat": 40.5306,
+    "lng": -105.1082,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-28T01:14:25",
+    "lat": 40.5738,
+    "lng": -105.0585,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-30T17:37:46",
+    "lat": 40.5738,
+    "lng": -105.0644,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-10-31T06:54:57",
+    "lat": 40.5091,
+    "lng": -105.036,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-01T06:35:03",
+    "lat": 40.5055,
+    "lng": -105.1105,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-02T17:09:45",
+    "lat": 40.5504,
+    "lng": -105.1093,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-04T00:42:39",
+    "lat": 40.5648,
+    "lng": -105.0526,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-05T20:40:07",
+    "lat": 40.5046,
+    "lng": -105.0479,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-06T09:20:01",
+    "lat": 40.5585,
+    "lng": -105.0668,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-07T01:28:28",
+    "lat": 40.589,
+    "lng": -105.0301,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-08T05:57:29",
+    "lat": 40.5243,
+    "lng": -105.0278,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-11T05:04:42",
+    "lat": 40.5423,
+    "lng": -105.0266,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-14T04:39:33",
+    "lat": 40.5764,
+    "lng": -105.0195,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-15T14:30:06",
+    "lat": 40.5531,
+    "lng": -105.0751,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-16T05:04:09",
+    "lat": 40.5091,
+    "lng": -105.0774,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-17T07:26:12",
+    "lat": 40.5531,
+    "lng": -105.0822,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-19T10:18:42",
+    "lat": 40.5746,
+    "lng": -105.0301,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-21T04:04:59",
+    "lat": 40.5109,
+    "lng": -105.042,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-22T08:10:25",
+    "lat": -20.5708,
+    "lng": -43.0078,
+    "city": "Guaraciaba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-23T00:53:38",
+    "lat": -20.6076,
+    "lng": -42.9819,
+    "city": "Guaraciaba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-24T13:24:11",
+    "lat": -20.587,
+    "lng": -42.98,
+    "city": "Guaraciaba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-25T22:22:48",
+    "lat": -20.5591,
+    "lng": -42.9953,
+    "city": "Guaraciaba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-26T13:18:22",
+    "lat": -20.5474,
+    "lng": -43.0136,
+    "city": "Guaraciaba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-27T15:57:47",
+    "lat": -20.5672,
+    "lng": -42.9982,
+    "city": "Guaraciaba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-11-29T22:57:19",
+    "lat": -20.6121,
+    "lng": -43.0251,
+    "city": "Guaraciaba"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-01T05:46:21",
+    "lat": 40.58,
+    "lng": -105.1153,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-02T13:01:35",
+    "lat": 40.5729,
+    "lng": -105.0798,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-05T08:42:42",
+    "lat": 40.572,
+    "lng": -105.0514,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-07T22:53:09",
+    "lat": 40.5172,
+    "lng": -105.1247,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-09T20:08:03",
+    "lat": 40.5216,
+    "lng": -105.0112,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-10T14:52:24",
+    "lat": 40.527,
+    "lng": -105.0431,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-11T07:57:08",
+    "lat": 40.5908,
+    "lng": -105.0443,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-12T17:07:51",
+    "lat": 40.5423,
+    "lng": -105.0857,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-13T09:21:24",
+    "lat": 40.5163,
+    "lng": -105.0703,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-14T15:34:25",
+    "lat": 40.5585,
+    "lng": -105.0183,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-15T17:39:45",
+    "lat": 40.5531,
+    "lng": -105.0159,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-17T01:01:31",
+    "lat": 40.5666,
+    "lng": -105.0443,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-18T01:55:44",
+    "lat": 40.5549,
+    "lng": -105.042,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-20T07:56:32",
+    "lat": 40.5181,
+    "lng": -105.0963,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-22T15:14:53",
+    "lat": 40.5441,
+    "lng": -105.0703,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-23T15:12:46",
+    "lat": 40.5684,
+    "lng": -105.0573,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-24T14:56:38",
+    "lat": 40.5738,
+    "lng": -105.1141,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-28T13:57:51",
+    "lat": 40.563,
+    "lng": -105.036,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-29T08:49:50",
+    "lat": 40.51,
+    "lng": -105.0089,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WDOO-SBRN-80B-FOR-1",
+    "timestamp": "2087-12-31T20:00:58",
+    "lat": 40.5872,
+    "lng": -105.0219,
+    "city": "Fort Collins"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-03T12:45:42",
+    "lat": 51.068,
+    "lng": 6.164,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-04T07:09:22",
+    "lat": 51.0581,
+    "lng": 6.2154,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-05T17:17:58",
+    "lat": 51.0608,
+    "lng": 6.2254,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-06T21:04:29",
+    "lat": 51.0401,
+    "lng": 6.1883,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-07T13:37:48",
+    "lat": 51.0464,
+    "lng": 6.244,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-08T19:51:48",
+    "lat": 51.0276,
+    "lng": 6.2669,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-09T23:32:48",
+    "lat": 51.0213,
+    "lng": 6.1797,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-10T16:06:33",
+    "lat": 51.0949,
+    "lng": 6.2411,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-13T01:38:40",
+    "lat": 51.0698,
+    "lng": 6.2297,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-14T04:20:03",
+    "lat": 51.0671,
+    "lng": 6.1582,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-15T22:22:42",
+    "lat": 51.0671,
+    "lng": 6.1983,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-18T12:53:07",
+    "lat": 51.0599,
+    "lng": 6.2283,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-20T15:03:50",
+    "lat": 51.0222,
+    "lng": 6.264,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-21T07:09:14",
+    "lat": 51.0527,
+    "lng": 6.2654,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-22T20:48:54",
+    "lat": 51.0554,
+    "lng": 6.1597,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-24T11:21:36",
+    "lat": 51.0662,
+    "lng": 6.224,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-26T03:19:51",
+    "lat": 51.0303,
+    "lng": 6.1554,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-27T08:00:51",
+    "lat": 51.0797,
+    "lng": 6.2426,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-28T18:05:22",
+    "lat": 51.0833,
+    "lng": 6.244,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-29T01:22:58",
+    "lat": 51.0482,
+    "lng": 6.2797,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-01-31T13:19:39",
+    "lat": 51.0374,
+    "lng": 6.2268,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-02T14:25:16",
+    "lat": 51.0383,
+    "lng": 6.2683,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-03T19:17:07",
+    "lat": 51.0294,
+    "lng": 6.2311,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-04T10:22:54",
+    "lat": 51.0473,
+    "lng": 6.234,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-06T11:07:54",
+    "lat": 51.0159,
+    "lng": 6.2826,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-07T02:39:18",
+    "lat": 51.0931,
+    "lng": 6.2469,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-08T23:02:56",
+    "lat": 51.0877,
+    "lng": 6.1883,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-09T23:56:59",
+    "lat": 51.0356,
+    "lng": 6.1754,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-10T20:33:20",
+    "lat": 51.0464,
+    "lng": 6.244,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-11T03:39:05",
+    "lat": 51.0285,
+    "lng": 6.2669,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-12T00:40:00",
+    "lat": 51.0401,
+    "lng": 6.274,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-14T19:36:44",
+    "lat": 51.0186,
+    "lng": 6.2869,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-15T13:36:04",
+    "lat": 51.041,
+    "lng": 6.2426,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-16T12:28:32",
+    "lat": 51.0464,
+    "lng": 6.2083,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-18T22:58:18",
+    "lat": 51.0653,
+    "lng": 6.1654,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-19T16:02:50",
+    "lat": 51.0258,
+    "lng": 6.244,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-22T00:57:27",
+    "lat": 51.0231,
+    "lng": 6.1797,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-25T10:03:03",
+    "lat": 22.738,
+    "lng": 88.343,
+    "city": "Khardah"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-26T18:05:03",
+    "lat": 22.7002,
+    "lng": 88.342,
+    "city": "Khardah"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-27T21:40:28",
+    "lat": 22.7254,
+    "lng": 88.3557,
+    "city": "Khardah"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-02-28T12:54:12",
+    "lat": 22.7119,
+    "lng": 88.3644,
+    "city": "Khardah"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-01T18:43:05",
+    "lat": 22.6886,
+    "lng": 88.3868,
+    "city": "Khardah"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-04T08:07:38",
+    "lat": 22.7577,
+    "lng": 88.3352,
+    "city": "Khardah"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-06T23:56:20",
+    "lat": 51.0312,
+    "lng": 6.2669,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-07T15:23:34",
+    "lat": 51.041,
+    "lng": 6.2211,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-08T00:22:00",
+    "lat": 51.1039,
+    "lng": 6.2826,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-09T17:00:06",
+    "lat": 51.0869,
+    "lng": 6.1554,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-10T12:03:07",
+    "lat": 51.0626,
+    "lng": 6.1582,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-12T07:06:14",
+    "lat": 51.0788,
+    "lng": 6.2854,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-15T13:38:25",
+    "lat": 51.0895,
+    "lng": 6.2426,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-16T00:56:23",
+    "lat": 51.0985,
+    "lng": 6.2369,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-17T01:58:22",
+    "lat": 51.0195,
+    "lng": 6.194,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-18T10:27:37",
+    "lat": 51.0985,
+    "lng": 6.1625,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-19T22:32:31",
+    "lat": 51.0339,
+    "lng": 6.2683,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-21T06:28:24",
+    "lat": 51.041,
+    "lng": 6.2411,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-22T21:49:50",
+    "lat": 51.0851,
+    "lng": 6.1868,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-25T20:24:08",
+    "lat": 51.0159,
+    "lng": 6.1997,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-26T02:35:35",
+    "lat": 51.1048,
+    "lng": 6.2268,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-28T00:42:29",
+    "lat": 51.0356,
+    "lng": 6.1797,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-29T05:22:26",
+    "lat": 51.0895,
+    "lng": 6.2726,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-03-31T23:22:54",
+    "lat": 51.0976,
+    "lng": 6.1897,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-01T06:05:52",
+    "lat": 51.0886,
+    "lng": 6.1754,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-04T10:54:05",
+    "lat": 51.0518,
+    "lng": 6.1825,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-05T08:08:34",
+    "lat": 51.0312,
+    "lng": 6.194,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-06T18:54:57",
+    "lat": 51.0958,
+    "lng": 6.2769,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-08T04:44:00",
+    "lat": 51.0967,
+    "lng": 6.2611,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-10T12:21:21",
+    "lat": 51.0958,
+    "lng": 6.2883,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-11T03:54:23",
+    "lat": 51.0464,
+    "lng": 6.194,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-12T18:15:45",
+    "lat": 51.0985,
+    "lng": 6.2654,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-13T22:41:38",
+    "lat": 51.0231,
+    "lng": 6.2083,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-14T03:54:41",
+    "lat": 51.0356,
+    "lng": 6.2025,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-15T15:52:37",
+    "lat": 51.0446,
+    "lng": 6.1783,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-17T16:26:25",
+    "lat": 51.068,
+    "lng": 6.1725,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-18T08:47:55",
+    "lat": 51.0419,
+    "lng": 6.2511,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-19T03:26:09",
+    "lat": 51.0491,
+    "lng": 6.2297,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-20T10:09:29",
+    "lat": 51.0869,
+    "lng": 6.2068,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-21T05:01:50",
+    "lat": 51.0734,
+    "lng": 6.2126,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-22T19:39:53",
+    "lat": 51.0617,
+    "lng": 6.214,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-25T18:58:38",
+    "lat": 51.0716,
+    "lng": 6.1582,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-26T21:47:20",
+    "lat": 51.1021,
+    "lng": 6.2697,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-28T11:48:19",
+    "lat": 51.0869,
+    "lng": 6.1897,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-04-29T19:47:59",
+    "lat": 51.0294,
+    "lng": 6.244,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-02T17:39:28",
+    "lat": 51.05,
+    "lng": 6.2168,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-03T05:52:59",
+    "lat": 51.0177,
+    "lng": 6.2654,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-06T03:06:05",
+    "lat": 51.0886,
+    "lng": 6.2511,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-07T09:54:46",
+    "lat": 51.0797,
+    "lng": 6.2583,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-08T03:51:27",
+    "lat": 51.0383,
+    "lng": 6.2111,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-10T17:30:10",
+    "lat": 51.0716,
+    "lng": 6.2883,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-12T19:35:55",
+    "lat": 51.0734,
+    "lng": 6.2426,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-14T05:44:46",
+    "lat": 51.05,
+    "lng": 6.1625,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-16T05:52:56",
+    "lat": 51.0231,
+    "lng": 6.204,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-17T01:01:38",
+    "lat": 51.0572,
+    "lng": 6.2068,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-19T02:29:26",
+    "lat": 51.0779,
+    "lng": 6.1825,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-20T11:29:51",
+    "lat": 51.0635,
+    "lng": 6.1811,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-21T17:57:29",
+    "lat": 51.0599,
+    "lng": 6.2211,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-22T01:35:25",
+    "lat": 51.077,
+    "lng": 6.2469,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-23T04:14:04",
+    "lat": 51.0419,
+    "lng": 6.2783,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-24T23:00:51",
+    "lat": 51.0374,
+    "lng": 6.2869,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-26T01:17:36",
+    "lat": 51.0222,
+    "lng": 6.2569,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-27T00:18:59",
+    "lat": 51.0895,
+    "lng": 6.2726,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-28T23:07:21",
+    "lat": 51.0716,
+    "lng": 6.1597,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-29T14:47:08",
+    "lat": 51.0599,
+    "lng": 6.174,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-30T20:27:11",
+    "lat": 51.0213,
+    "lng": 6.2426,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-05-31T20:55:30",
+    "lat": 51.0617,
+    "lng": 6.2111,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-01T04:28:16",
+    "lat": 51.0994,
+    "lng": 6.2712,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-02T18:44:08",
+    "lat": 51.0994,
+    "lng": 6.2426,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-03T10:57:43",
+    "lat": 51.1048,
+    "lng": 6.2797,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-04T07:40:58",
+    "lat": 51.0833,
+    "lng": 6.1754,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-05T11:04:17",
+    "lat": 51.0994,
+    "lng": 6.2812,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-07T22:17:59",
+    "lat": 51.0743,
+    "lng": 6.2097,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-08T00:31:41",
+    "lat": 51.1048,
+    "lng": 6.2497,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-10T15:05:36",
+    "lat": 36.5939,
+    "lng": 128.2014,
+    "city": "Mun'gyong"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-11T09:33:16",
+    "lat": 36.6173,
+    "lng": 128.2428,
+    "city": "Mun'gyong"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-12T06:48:09",
+    "lat": 36.6047,
+    "lng": 128.2428,
+    "city": "Mun'gyong"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-13T21:49:39",
+    "lat": 51.033,
+    "lng": 6.2283,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-14T17:36:26",
+    "lat": 51.0204,
+    "lng": 6.2683,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-16T00:13:06",
+    "lat": 51.0824,
+    "lng": 6.2426,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-18T08:08:46",
+    "lat": 51.0976,
+    "lng": 6.2168,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-19T00:05:42",
+    "lat": 51.0743,
+    "lng": 6.2411,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-20T19:07:46",
+    "lat": 51.0303,
+    "lng": 6.234,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-21T19:57:26",
+    "lat": 51.1012,
+    "lng": 6.1783,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-25T17:56:45",
+    "lat": 51.0626,
+    "lng": 6.2669,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-26T22:37:34",
+    "lat": 51.0797,
+    "lng": 6.2126,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-27T17:13:02",
+    "lat": 51.0985,
+    "lng": 6.2154,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-06-29T06:33:20",
+    "lat": 51.0392,
+    "lng": 6.2111,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-01T17:53:53",
+    "lat": 51.0222,
+    "lng": 6.1725,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-04T11:35:56",
+    "lat": 51.0258,
+    "lng": 6.2383,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-06T00:14:45",
+    "lat": 51.0913,
+    "lng": 6.224,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-07T00:37:00",
+    "lat": 51.0806,
+    "lng": 6.1525,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-09T10:37:35",
+    "lat": 51.0464,
+    "lng": 6.184,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-10T15:54:16",
+    "lat": 51.0491,
+    "lng": 6.1725,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-12T21:26:52",
+    "lat": 51.024,
+    "lng": 6.2569,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-13T20:42:05",
+    "lat": 51.0752,
+    "lng": 6.264,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-14T07:41:04",
+    "lat": 51.0581,
+    "lng": 6.2068,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-15T13:17:03",
+    "lat": 51.0788,
+    "lng": 6.1883,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-16T15:56:23",
+    "lat": 51.0931,
+    "lng": 6.184,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-17T22:16:34",
+    "lat": 51.0464,
+    "lng": 6.2397,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-18T06:35:15",
+    "lat": 51.0383,
+    "lng": 6.1754,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-19T04:42:01",
+    "lat": 51.0716,
+    "lng": 6.2268,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-20T21:45:53",
+    "lat": 51.0698,
+    "lng": 6.1911,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-21T10:09:34",
+    "lat": 51.0231,
+    "lng": 6.2254,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-22T19:25:23",
+    "lat": 51.0994,
+    "lng": 6.2726,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-23T18:33:12",
+    "lat": 51.0994,
+    "lng": 6.2583,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-24T20:03:31",
+    "lat": 51.0186,
+    "lng": 6.1525,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-25T13:24:37",
+    "lat": 51.0958,
+    "lng": 6.154,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-26T23:51:25",
+    "lat": 51.1048,
+    "lng": 6.2583,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-27T21:58:05",
+    "lat": 51.068,
+    "lng": 6.2126,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-28T15:30:34",
+    "lat": 51.0347,
+    "lng": 6.2397,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-30T17:30:01",
+    "lat": 51.0419,
+    "lng": 6.154,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-07-31T10:55:58",
+    "lat": 51.0554,
+    "lng": 6.224,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-01T13:47:26",
+    "lat": 51.0886,
+    "lng": 6.2426,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-04T18:30:45",
+    "lat": 51.059,
+    "lng": 6.2411,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-05T21:33:59",
+    "lat": 51.0482,
+    "lng": 6.1554,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-06T16:48:50",
+    "lat": 51.0851,
+    "lng": 6.214,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-07T11:31:09",
+    "lat": 51.0662,
+    "lng": 6.224,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-08T03:38:35",
+    "lat": 51.0356,
+    "lng": 6.1568,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-10T11:43:43",
+    "lat": 51.0491,
+    "lng": 6.2654,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-11T11:29:38",
+    "lat": 51.0258,
+    "lng": 6.2883,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-14T18:40:08",
+    "lat": 51.0617,
+    "lng": 6.154,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-15T07:15:05",
+    "lat": 51.0895,
+    "lng": 6.2854,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-16T17:07:37",
+    "lat": 51.0797,
+    "lng": 6.1625,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-17T04:55:18",
+    "lat": 51.0437,
+    "lng": 6.184,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-18T11:32:44",
+    "lat": 51.517,
+    "lng": -2.548,
+    "city": "Stoke Gifford"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-20T17:43:12",
+    "lat": 51.5116,
+    "lng": -2.6187,
+    "city": "Stoke Gifford"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-21T12:29:52",
+    "lat": 51.5457,
+    "lng": -2.5971,
+    "city": "Stoke Gifford"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-22T02:19:16",
+    "lat": 51.5583,
+    "lng": -2.4989,
+    "city": "Stoke Gifford"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-24T01:37:20",
+    "lat": 51.0222,
+    "lng": 6.2254,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-27T21:17:20",
+    "lat": 51.0976,
+    "lng": 6.1654,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-30T23:51:14",
+    "lat": 51.0617,
+    "lng": 6.2369,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-08-31T14:21:34",
+    "lat": 51.0482,
+    "lng": 6.1625,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-01T18:16:02",
+    "lat": 51.0195,
+    "lng": 6.1811,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-02T17:10:20",
+    "lat": 51.0554,
+    "lng": 6.1897,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-03T10:40:55",
+    "lat": 51.0635,
+    "lng": 6.2111,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-05T23:02:31",
+    "lat": 51.0356,
+    "lng": 6.2611,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-06T00:10:58",
+    "lat": 51.1039,
+    "lng": 6.1497,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-07T07:47:07",
+    "lat": 51.0788,
+    "lng": 6.2426,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-08T15:05:33",
+    "lat": 51.0455,
+    "lng": 6.2454,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-10T18:41:07",
+    "lat": 51.0877,
+    "lng": 6.2226,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-11T18:13:22",
+    "lat": 51.0204,
+    "lng": 6.1711,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-12T17:34:31",
+    "lat": 51.068,
+    "lng": 6.2554,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-13T02:15:22",
+    "lat": 51.0267,
+    "lng": 6.2226,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-14T03:40:54",
+    "lat": 51.0635,
+    "lng": 6.154,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-16T15:11:42",
+    "lat": 51.0671,
+    "lng": 6.1911,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-18T22:12:04",
+    "lat": 51.0599,
+    "lng": 6.2083,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-20T10:27:41",
+    "lat": 51.0653,
+    "lng": 6.264,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-21T19:00:00",
+    "lat": 51.0204,
+    "lng": 6.2883,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-22T01:15:26",
+    "lat": 51.0985,
+    "lng": 6.1883,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-23T02:49:40",
+    "lat": 51.077,
+    "lng": 6.2369,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-24T16:42:19",
+    "lat": 51.0464,
+    "lng": 6.2126,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-25T05:52:11",
+    "lat": 51.0886,
+    "lng": 6.1568,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-27T01:24:19",
+    "lat": 51.0204,
+    "lng": 6.2812,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-29T14:18:48",
+    "lat": 51.0689,
+    "lng": 6.2797,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-09-30T19:39:09",
+    "lat": 51.0258,
+    "lng": 6.1682,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-01T00:52:31",
+    "lat": 51.0473,
+    "lng": 6.2554,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-02T17:11:05",
+    "lat": 51.0806,
+    "lng": 6.2483,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-03T15:42:08",
+    "lat": 51.0824,
+    "lng": 6.194,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-05T20:06:10",
+    "lat": 51.0626,
+    "lng": 6.1968,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-06T05:34:14",
+    "lat": 51.1021,
+    "lng": 6.2383,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-07T18:40:59",
+    "lat": 51.1012,
+    "lng": 6.2254,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-08T12:44:19",
+    "lat": 51.0842,
+    "lng": 6.244,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-09T07:31:35",
+    "lat": 51.0895,
+    "lng": 6.2354,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-10T05:31:05",
+    "lat": 51.0231,
+    "lng": 6.2854,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-11T08:43:21",
+    "lat": 51.0437,
+    "lng": 6.1768,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-12T10:41:41",
+    "lat": 51.103,
+    "lng": 6.2483,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-13T10:10:52",
+    "lat": 51.0231,
+    "lng": 6.2083,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-15T22:54:58",
+    "lat": 51.0536,
+    "lng": 6.1682,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-19T17:21:44",
+    "lat": 51.0707,
+    "lng": 6.244,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-20T22:17:34",
+    "lat": 51.094,
+    "lng": 6.244,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-21T17:39:12",
+    "lat": 51.0303,
+    "lng": 6.2897,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-22T12:54:45",
+    "lat": 51.0797,
+    "lng": 6.2554,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-23T12:17:43",
+    "lat": 51.0509,
+    "lng": 6.1611,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-24T17:19:51",
+    "lat": 51.0949,
+    "lng": 6.1511,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-25T18:05:37",
+    "lat": 51.0788,
+    "lng": 6.1783,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-26T23:57:46",
+    "lat": 51.0644,
+    "lng": 6.2511,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-27T10:11:35",
+    "lat": 51.0482,
+    "lng": 6.2497,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-28T05:24:18",
+    "lat": 51.0581,
+    "lng": 6.2683,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-29T12:00:31",
+    "lat": 51.024,
+    "lng": 6.2054,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-30T21:22:07",
+    "lat": 51.059,
+    "lng": 6.2197,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-10-31T00:14:44",
+    "lat": 51.0258,
+    "lng": 6.1725,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-01T13:25:44",
+    "lat": 51.0599,
+    "lng": 6.1868,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-02T12:34:25",
+    "lat": 51.0886,
+    "lng": 6.2769,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-03T21:56:19",
+    "lat": 51.0904,
+    "lng": 6.2583,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-04T14:55:44",
+    "lat": 51.0644,
+    "lng": 6.234,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-05T15:19:51",
+    "lat": 51.0635,
+    "lng": 6.2211,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-06T11:07:31",
+    "lat": 51.0806,
+    "lng": 6.2497,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-07T07:39:59",
+    "lat": 51.077,
+    "lng": 6.2454,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-09T20:44:02",
+    "lat": 51.0752,
+    "lng": 6.2526,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-11T16:21:30",
+    "lat": 51.0401,
+    "lng": 6.1997,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-12T03:40:30",
+    "lat": 51.0365,
+    "lng": 6.2397,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-13T20:19:16",
+    "lat": 51.0285,
+    "lng": 6.1968,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-14T21:40:26",
+    "lat": 51.0949,
+    "lng": 6.1883,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-15T01:29:47",
+    "lat": 51.0653,
+    "lng": 6.2154,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-16T20:33:52",
+    "lat": 51.0491,
+    "lng": 6.2326,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-17T06:21:36",
+    "lat": 51.0976,
+    "lng": 6.2326,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-20T22:13:32",
+    "lat": 51.0806,
+    "lng": 6.2068,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-22T13:49:52",
+    "lat": 51.0725,
+    "lng": 6.2754,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-23T10:30:07",
+    "lat": 51.1039,
+    "lng": 6.1697,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-24T09:09:56",
+    "lat": 51.0635,
+    "lng": 6.164,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-25T18:24:01",
+    "lat": 51.0707,
+    "lng": 6.1725,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-27T02:06:35",
+    "lat": 51.0482,
+    "lng": 6.174,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-28T20:19:03",
+    "lat": 51.033,
+    "lng": 6.2526,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-11-30T01:16:31",
+    "lat": 51.094,
+    "lng": 6.1968,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-01T06:43:30",
+    "lat": 51.0617,
+    "lng": 6.204,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-02T10:23:47",
+    "lat": 51.094,
+    "lng": 6.2054,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-03T19:26:59",
+    "lat": 51.0833,
+    "lng": 6.2168,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-04T03:23:41",
+    "lat": 51.024,
+    "lng": 6.1654,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-05T13:19:39",
+    "lat": 51.0177,
+    "lng": 6.1811,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-06T16:32:57",
+    "lat": 51.0761,
+    "lng": 6.1668,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-07T02:34:24",
+    "lat": 51.0518,
+    "lng": 6.2569,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-08T23:12:24",
+    "lat": 51.0788,
+    "lng": 6.2569,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-09T08:05:09",
+    "lat": 51.059,
+    "lng": 6.2025,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-10T20:28:33",
+    "lat": 51.0159,
+    "lng": 6.284,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-14T17:16:30",
+    "lat": 51.0806,
+    "lng": 6.2526,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-15T21:18:49",
+    "lat": 51.0285,
+    "lng": 6.2754,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-16T19:53:41",
+    "lat": 51.0617,
+    "lng": 6.1911,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-18T14:32:54",
+    "lat": 51.0383,
+    "lng": 6.2454,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-20T08:22:03",
+    "lat": 51.0491,
+    "lng": 6.2111,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-21T05:36:09",
+    "lat": 51.0671,
+    "lng": 6.1497,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-22T00:00:15",
+    "lat": 51.0653,
+    "lng": 6.2211,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-23T17:07:25",
+    "lat": 51.0419,
+    "lng": 6.2268,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-24T14:26:22",
+    "lat": 51.0294,
+    "lng": 6.2283,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-25T17:47:13",
+    "lat": 51.0779,
+    "lng": 6.1597,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-27T01:56:52",
+    "lat": 51.1012,
+    "lng": 6.1797,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-28T16:06:30",
+    "lat": 51.0797,
+    "lng": 6.2797,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-29T10:38:50",
+    "lat": 51.0383,
+    "lng": 6.2883,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-30T02:16:34",
+    "lat": 51.1021,
+    "lng": 6.1911,
+    "city": "Huckelhoven"
+  },
+  {
+    "biotag": "WRNR-LSTT-80B-HUC-0",
+    "timestamp": "2087-12-31T11:15:13",
+    "lat": 51.0994,
+    "lng": 6.2197,
+    "city": "Huckelhoven"
+  }
+]

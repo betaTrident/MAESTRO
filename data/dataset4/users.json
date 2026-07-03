@@ -1,0 +1,282 @@
+[
+  {
+    "first_name": "Pauline",
+    "last_name": "Allard",
+    "birth_year": 2047,
+    "salary": 43500,
+    "job": "Office Clerk",
+    "iban": "FR85C9983174835954540182044",
+    "residence": {
+      "city": "Paris",
+      "lat": "48.8567",
+      "lng": "2.3522"
+    },
+    "description": "Pauline Allard, 40 ans (née en 2047), est employée de bureau à Paris et mène une vie réglée faite de dossiers, de pauses café prises debout devant la fenêtre et de trajets métro-boulot; elle gagne 43 500 euros par an et gère ses dépenses depuis son compte français (IBAN FR85C9983174835954540182044), voyage en moyenne une fois par an — parfois jusqu'à 15 000 km, entre petites villes et grandes métropoles — et, plutôt confiante en ligne, a la fâcheuse habitude de cliquer sur des liens douteux environ une fois sur deux, ce qui la pousse peu à peu à devenir plus prudente."
+  },
+  {
+    "first_name": "Gabriel",
+    "last_name": "Jones",
+    "birth_year": 2059,
+    "salary": 7700,
+    "job": "Student",
+    "iban": "US12F5482165547599462521905",
+    "residence": {
+      "city": "Miami",
+      "lat": "25.7840",
+      "lng": "-80.2101"
+    },
+    "description": "Gabriel Jones, born in 2059, is a 28-year-old university student living in Miami; he gets by on a steady income of $7,700 and manages his funds through a US account (IBAN US12F5482165547599462521905), travels about twice a year—sometimes short trips, sometimes journeys up to 15,000 km—to places that vary from towns of a thousand people to megacities of 45 million, and online he’s curious and not always cautious, roughly as likely as not to click a suspicious link, so he moves through Miami’s rebuilt waterfront and crowded classrooms balancing studies, occasional travel and the small, everyday risks of a hyperconnected 2087."
+  },
+  {
+    "first_name": "Pierangelo",
+    "last_name": "Villadicani",
+    "birth_year": 2041,
+    "salary": 77300,
+    "job": "Restaurant Owner",
+    "iban": "IT56K7374786320646835794251",
+    "residence": {
+      "city": "Molfetta",
+      "lat": "41.2000",
+      "lng": "16.6000"
+    },
+    "description": "Pierangelo Villadicani, nato nel 2041 e oggi quarantaseienne, è il titolare di un ristorante a Molfetta: cresciuto tra il porto e i vicoli, ha trasformato la cucina pugliese di casa in un'impresa solida che unisce tradizione e tecnologie alimentari, con coltivazioni idroponiche per integrare i prodotti locali; con un reddito annuo intorno ai 77.300 euro mantiene il locale e la famiglia, decide personalmente i fornitori e allena il personale a resistere alle stagioni difficili di un Mediterraneo in continuo mutamento. Viaggia una volta l'anno—spesso per fiere gastronomiche o per cercare materie prime rare, percorrendo fino a 15.000 km e approdando indifferentemente in paesini da poche migliaia di abitanti o in metropoli da decine di milioni—ma nella vita quotidiana è pratico e concreto, cura contabilità e sala con mano ferma; ha un rapporto pragmatico con la tecnologia e ogni tanto cade in qualche trappola digitale, per cui si affida al consulente informatico del quartiere quando serve. A Molfetta è conosciuto per la cucina sincera, il sorriso diretto e la capacità di adattarsi alle novità senza perdere il senso del luogo."
+  },
+  {
+    "first_name": "Hugues",
+    "last_name": "Costa",
+    "birth_year": 2066,
+    "salary": 15000,
+    "job": "Student",
+    "iban": "FR60U4515572555681249745460",
+    "residence": {
+      "city": "Lyon",
+      "lat": "45.7600",
+      "lng": "4.8400"
+    },
+    "description": "Hugues Costa, né en 2066 et âgé de 21 ans, habite Lyon où il suit des études universitaires; il finance sa vie d'étudiant avec un salaire d'environ 15 000, partageant son temps entre cours, petits boulots et cafés le long du Rhône, part en moyenne une fois par an pour des voyages qui vont d'escapades régionales à des destinations lointaines et peuplées, et, connecté et curieux comme beaucoup de sa génération, il peut parfois cliquer un peu trop vite sur des messages numériques."
+  },
+  {
+    "first_name": "Pina",
+    "last_name": "Boccherini",
+    "birth_year": 2060,
+    "salary": 4300,
+    "job": "Student",
+    "iban": "IT40G7127839025038019231103",
+    "residence": {
+      "city": "Rome",
+      "lat": "41.8931",
+      "lng": "12.4828"
+    },
+    "description": "Pina Boccherini, nata nel 2060, è una studentessa universitaria romana di 27 anni che vive e studia a Roma: divide le giornate tra lezioni e piccoli lavori che le fruttano circa 4.300 euro al mese e le permettono di sostenersi in città; fa appena un viaggio l'anno — a volte un breve salto vicino casa, altre volte una fuga fino a 15.000 km verso città immense o paesini remoti — e ha l'abitudine poco prudente di cliccare link sospetti quasi una volta su due, una distrazione digitale che le costa qualche grattacapo; conosce Roma con la praticità di chi la vive quotidianamente, tra strade familiari e infrastrutture del 2087, e affronta lo studio e la vita con concretezza più che con romanticismo."
+  },
+  {
+    "first_name": "Selma",
+    "last_name": "Kuhl",
+    "birth_year": 2056,
+    "salary": 6900,
+    "job": "Student",
+    "iban": "DE49P7497712576597845002597",
+    "residence": {
+      "city": "Wurzen",
+      "lat": "51.3667",
+      "lng": "12.7167"
+    },
+    "description": "Selma Kuhl, 2056 geboren und damit 31 Jahre alt, lebt als Studentin in Wurzen und bestreitet ihren Alltag mit einem Einkommen von 6.900 Euro; sie reist etwa zweimal im Jahr – von kleinen Orten mit nur tausend Einwohnern bis in Metropolen und Strecken bis zu 15.000 Kilometern – und im digitalen Leben ist sie aufgeschlossen, manchmal etwas leichtgläubig gegenüber Phishing-Versuchen, was ihr Freundeskreis mit mildem Tadel begleitet."
+  },
+  {
+    "first_name": "Lawrence",
+    "last_name": "Mendoza",
+    "birth_year": 2053,
+    "salary": 32500,
+    "job": "Office Clerk",
+    "iban": "US79W9364933803236167606436",
+    "residence": {
+      "city": "Virginia Beach",
+      "lat": "36.7335",
+      "lng": "-76.0435"
+    },
+    "description": "Lawrence Mendoza, born in 2053 and now thirty-four, lives in Virginia Beach and works as an Office Clerk earning about $32,500 a year; his life is built on steady routines—morning commutes through the humid Atlantic air, long hours of filing and forms, cheap coffee at a corner kiosk—and five times a year he trades the predictability for travel, from short coastal runs to occasional long-haul trips that take him to anything from thousand-person towns to megacities of tens of millions, he keeps his modest funds in a regional account (ending 6436) and, while reliable at the desk, he isn't the most cautious online—he still clicks suspicious messages nearly half the time."
+  },
+  {
+    "first_name": "Annalisa",
+    "last_name": "Armani",
+    "birth_year": 2054,
+    "salary": 39300,
+    "job": "Office Clerk",
+    "iban": "IT58H8578234715230405631551",
+    "residence": {
+      "city": "Monza",
+      "lat": "45.5836",
+      "lng": "9.2736"
+    },
+    "description": "Annalisa Armani, nata nel 2054 e residente a Monza, ha 33 anni e passa le giornate dietro a una scrivania come impiegata d'ufficio: è metodica, pratica e porta a casa uno stipendio annuo di 39.300 euro, vive una routine fatta di caffè preso al volo, scartoffie digitali e pause sulla tangenziale brianzola ma ogni tanto si concede due viaggi l'anno, dai paesini vicini fino a mete lontane a 15.000 km, tra città da poche migliaia di abitanti e metropoli con milioni di presenze; non è immune alle insidie del mondo connesso — ha una tendenza a fidarsi che la espone a phishing in circa metà dei casi — e gestisce i suoi conti con attenzione, IBAN IT58H8578234715230405631551, cercando un equilibrio tra prudenza quotidiana e voglia di scoprire luoghi nuovi."
+  },
+  {
+    "first_name": "Jasmine",
+    "last_name": "Barker",
+    "birth_year": 2061,
+    "salary": 21300,
+    "job": "Digital Creator",
+    "iban": "GB43N4072073437385733278018",
+    "residence": {
+      "city": "Plymouth",
+      "lat": "50.3714",
+      "lng": "-4.1422"
+    },
+    "description": "Jasmine Barker, born in 2061, is a 26-year-old freelance digital creator based in Plymouth who earns about £21,300 a year and runs a lean, inventive practice from a compact studio near the waterfront, turning shipyard textures and coastal light into short films, AR experiences and client commissions; she travels twice a year — sometimes short hops around the UK, sometimes journeys up to 15,000 km away to places that range from villages of a few thousand to megacities of tens of millions — which keeps her work honest and varied, and she manages her modest finances through a local account (IBAN GB43N4072073437385733278018); pragmatic and open online, she is quick to follow new opportunities (a habit that has led her to click dubious links about one time in two), preferring the flexible, restless life Plymouth affords where gulls and delivery drones share the skyline outside her window."
+  },
+  {
+    "first_name": "Samuel",
+    "last_name": "Baker",
+    "birth_year": 2043,
+    "salary": 74300,
+    "job": "Retail Entrepreneur",
+    "iban": "GB93B1663909481117494631300",
+    "residence": {
+      "city": "London",
+      "lat": "51.5072",
+      "lng": "-0.1275"
+    },
+    "description": "Samuel Baker, born 2043, is a 44-year-old retail entrepreneur in London who runs a small, resilient network of hybrid street kiosks and an online storefront tuned to the city's blackout-prone grids; earning about £74,300 a year, he spends his days negotiating supply chains and fine-tuning inventory algorithms, travels roughly three times a year—from local hops to supplier runs as far as 15,000 km, visiting places that range from thousand-person towns to megacities of tens of millions—and moves through London's guarded alleys with practical optimism and a pragmatic grasp of tech, though he's the sort to sometimes click a tempting link and so keeps one eye on fraud as well as opportunity in 2087."
+  },
+  {
+    "first_name": "Änne",
+    "last_name": "Pärtzelt",
+    "birth_year": 2049,
+    "salary": 69200,
+    "job": "Senior Consultant",
+    "iban": "DE58R7690951594451058398921",
+    "residence": {
+      "city": "Hamminkeln",
+      "lat": "51.7319",
+      "lng": "6.5908"
+    },
+    "description": "Änne Pärtzelt, geboren 2049, lebt in Hamminkeln und arbeitet als Senior Consultant mit einem Jahresgehalt von rund 69.200 Euro; sie reist etwa dreimal im Jahr für Kundenprojekte, mal ins nahegelegene Kleinstadtbüro, mal bis zu 15.000 km entfernte Metropolen, ihre Ziele reichen von Orten mit wenigen Tausend bis zu Städten mit Millionen Einwohnern, und zwischen Terminen hält sie an festen Routinen — schneller Espresso, akkurates Reise-Setup, klare Prioritäten —, bleibt aber bei digitalen Sicherheitsfragen nicht unfehlbar und klickt gelegentlich auf geschickt gestaltete Phishing-Mails."
+  },
+  {
+    "first_name": "Brittany",
+    "last_name": "Daniels",
+    "birth_year": 2044,
+    "salary": 97700,
+    "job": "Business Manager",
+    "iban": "US44B2278346785438199116623",
+    "residence": {
+      "city": "Minneapolis",
+      "lat": "44.9635",
+      "lng": "-93.2678"
+    },
+    "description": "Brittany Daniels, born in 2044 and now 43, works as a Business Manager in Minneapolis and earns about $97,700 a year; she manages her funds through an account (IBAN US44B2278346785438199116623), usually stays local but takes one trip a year—sometimes a long haul up to 15,000 km to places that can be as small as a thousand people or as large as 45 million—and, pragmatic about the risks of life in 2087, admits she has about a 49% tendency to click phishing links, a weakness she mitigates with rigorous backups and recovery routines."
+  },
+  {
+    "first_name": "Jeffrey",
+    "last_name": "Marquez",
+    "birth_year": 2032,
+    "salary": 279300,
+    "job": "Investor",
+    "iban": "US76J6311819174767966804772",
+    "residence": {
+      "city": "Las Vegas",
+      "lat": "36.2333",
+      "lng": "-115.2654"
+    },
+    "description": "Jeffrey Marquez, born in 2032, is a 55-year-old Las Vegas–based investor and serial entrepreneur who earns about $279,300 a year and spends his days shifting capital into late-stage infrastructure and hospitality-turned-data assets while running a compact portfolio of startups; he makes roughly five business trips a year — everything from local hops to transcontinental flights up to 15,000 km — meeting partners in towns of a few thousand and in megacities of up to 45 million, and despite being digitally fluent and well networked in the corporate enclaves of 2087 he admits a stubborn blind spot: persuasive, personalized phishing still manages to catch him now and then, a practical reminder that even top operators can be outmaneuvered by human tricks."
+  },
+  {
+    "first_name": "Hansjürgen",
+    "last_name": "Briemer",
+    "birth_year": 2056,
+    "salary": 37300,
+    "job": "Administrative Assistant",
+    "iban": "DE82V1047608632036067275162",
+    "residence": {
+      "city": "Wendelstein",
+      "lat": "49.3536",
+      "lng": "11.1483"
+    },
+    "description": "Hansjürgen Briemer, 2056 geboren und damit 31 Jahre alt, arbeitet als ganz normaler Verwaltungsassistent in Wendelstein und organisiert Akten, Termine und den täglichen Papierkram mit einer verlässlichen, routinierten Art; sein Jahresgehalt liegt bei rund 37.300 Euro, er lebt eher pragmatisch und plant zweimal im Jahr Reisen — mal bleibt er in der Nähe, mal sitzt er im Flieger bis zu 15.000 Kilometer entfernt und bewegt sich dabei zwischen kleinen Gemeinden und Metropolen mit bis zu Millionen Einwohnern —, und obwohl er im Alltag souverän wirkt, ist er digital nicht besonders misstrauisch und lässt sich manchmal von geschickt formulierten Phishing-Mails täuschen."
+  },
+  {
+    "first_name": "Gianmarco",
+    "last_name": "Balbo",
+    "birth_year": 2050,
+    "salary": 18800,
+    "job": "Freelance Designer",
+    "iban": "IT18Q0845504922632058864647",
+    "residence": {
+      "city": "Naples",
+      "lat": "40.8358",
+      "lng": "14.2486"
+    },
+    "description": "Gianmarco Balbo ha 37 anni e vive a Napoli, dove la sua vita scorre tra il tavolo del piccolo studio in casa e i caffè affollati dove incontra clienti: è un freelance designer che si arrangia con un reddito modesto — circa 18.800 all'anno — accettando progetti di branding, interfacce e visual per committenti locali e internazionali; viaggia in media sette volte l'anno, da brevi trasferte in Italia fino a voli di quindicimila chilometri per seguire lavori o cercare nuovi stimoli in metropoli che possono avere poche migliaia o decine di milioni di abitanti, e porta in ogni progetto l'evidente amore per i contrasti della sua città, la luce sulla baia, il disordine vivace dei Quartieri Spagnoli e la presenza costante del Vesuvio; schiva contratti troppo rigidi ma non è immune alle trappole del mondo digitale — qualche volta si è lasciato ingannare da email e offerte apparentemente allettanti — e passa le giornate a bilanciare creatività e sopravvivenza economica, coltivando reti di contatti che lo tengono in movimento e gli danno quel poco di stabilità necessaria a continuare a fare il mestiere che ha scelto."
+  },
+  {
+    "first_name": "Serge",
+    "last_name": "Hauffer",
+    "birth_year": 2048,
+    "salary": 29700,
+    "job": "Office Clerk",
+    "iban": "DE86E5952536595787539478186",
+    "residence": {
+      "city": "Bremen",
+      "lat": "53.0758",
+      "lng": "8.8072"
+    },
+    "description": "Serge Hauffer, geboren 2048 und damit 39 Jahre alt, lebt 2087 als klassischer Bürokaufmann in Bremen und führt ein nüchternes, routiniertes Leben zwischen Verwaltungsbüros und den umgebauten Speicherbauten an der Weser; er verdient rund 29.700 Euro im Jahr, wohnt in einer kleinen Wohnung und erledigt Tag für Tag die Papier- und Digitalarbeit, die den städtischen Mechanismus am Laufen hält. Er reist nur selten — etwa einmal im Jahr — und wenn, dann kann ihn die Reise bis in weit entfernte Metropolen führen, doch meistens sind diese Ausbrüche kurz und wohlüberlegt. Im Netz ist er weder besonders misstrauisch noch leichtsinnig: seine Gewohnheiten führen dazu, dass er in fast der Hälfte der Fälle auf Phishing-Mails reagiert, was ihn anfällig für die digitalen Fallstricke dieser Zeit macht. Seine monatlichen Zahlungen laufen über ein Konto (IBAN DE86E5952536595787539478186), und trotz der Engpässe bleibt er ein verlässlicher, unauffälliger Baustein im Alltag Bremens."
+  },
+  {
+    "first_name": "Marco",
+    "last_name": "Vasari",
+    "birth_year": 2066,
+    "salary": 8400,
+    "job": "Student",
+    "iban": "IT30W2298651251996438959550",
+    "residence": {
+      "city": "Bollate",
+      "lat": "45.5500",
+      "lng": "9.1167"
+    },
+    "description": "Marco Vasari è uno studente universitario di Bollate, nato nel 2066 (21 anni) che divide il suo tempo tra lezioni, lavoretti e quattro viaggi l'anno: pendolarismi verso Milano e trasferte più lunghe che possono arrivare fino a 15.000 km, attraversando paesi e città che vanno dai borghi di poche migliaia di abitanti alle metropoli da decine di milioni. Con uno stipendio annuo di 8.400 euro gestisce il bilancio tramite servizi bancari digitali e lavori part-time; pragmatico con la tecnologia, ha però una certa vulnerabilità agli inganni online — il suo tasso di click su phishing è vicino al 48% — esperienza che lo ha reso più accorto ma non immune. Vive a Bollate, a due passi da Milano, e il suo ritmo è fatto di studio serrato, spostamenti programmati e la determinazione a costruirsi un futuro senza rinunciare alle occasioni di viaggio."
+  },
+  {
+    "first_name": "Michelle",
+    "last_name": "Wallace",
+    "birth_year": 2063,
+    "salary": 11100,
+    "job": "Student",
+    "iban": "US88A0634195665843002372925",
+    "residence": {
+      "city": "Myrtle Grove",
+      "lat": "30.4158",
+      "lng": "-87.3027"
+    },
+    "description": "Michelle Wallace is a 24-year-old university student from Myrtle Grove, born in 2063, who juggles coursework and a part-time income of about $11,100 a year to keep a modest life on the Gulf Coast; she travels roughly three times a year—sometimes staying local, sometimes routing trips up to 15,000 kilometers to destinations that range from quiet towns to sprawling megacities—picking places by price and opportunity, and managing money tightly with spreadsheets and odd shifts. Pragmatic and restless, she’s digitally engaged and socially curious, which makes her open to new offers and at times quick to click things that look promising (her click rate on suspicious messages is about one in two), yet she’s learning caution as she builds experience; in Myrtle Grove (30.4158, -87.3027) she’s known as a clear-eyed student who reads the news with one hand and plans the next trip with the other, trying to turn education and a lean budget into a steadier future."
+  },
+  {
+    "first_name": "Keith",
+    "last_name": "Martinez",
+    "birth_year": 2047,
+    "salary": 34800,
+    "job": "Administrative Assistant",
+    "iban": "US90I4786138587017084138995",
+    "residence": {
+      "city": "Hempstead",
+      "lat": "40.6629",
+      "lng": "-73.6089"
+    },
+    "description": "Keith Martinez was born in 2047 and at forty he lives and works in Hempstead, Long Island, as an Administrative Assistant, earning about $34,800 a year and keeping the steady, detail-heavy side of a local office running—scheduling, filing, answering the kind of emails everyone else forwards; he makes two trips a year, sometimes short and local and occasionally as far as 15,000 km to a distant city, so his travel ranges from small towns to sprawling metropolitan hubs. Practical and routine-minded, he moves through the neighborhood he knows well, balancing modest comforts with the chores of everyday life, and he treats online security as a real worry—his measured susceptibility to phishing (≈0.49 click probability) and his modest bank account (IBAN US90I4786138587017084138995) are small but persistent concerns amid his steady rhythm."
+  },
+  {
+    "first_name": "Brian",
+    "last_name": "Scott",
+    "birth_year": 1993,
+    "salary": 42300,
+    "job": "Retired",
+    "iban": "GB69N2093387789904338926063",
+    "residence": {
+      "city": "Fulham",
+      "lat": "51.4828",
+      "lng": "-0.1950"
+    },
+    "description": "Brian Scott, born in 1993 and now 94, lives in Fulham and has settled into the steady rhythm of a retired homemaker: his annual pension of about £42,300 keeps a tidy riverside flat near the Thames where he tends a small balcony garden, cooks the sort of plain, hearty meals that bring the grandchildren round, drops in at the local grocer and volunteer lunch club, and fills the quiet hours with letters, radio dramas and the occasional crossword; he still moves — about six trips a year, a mix of short train journeys to market towns and a couple of long-haul flights to see family in far-off cities — so his life swings between familiar London streets and places that range from villages of a few thousand to vast metropolitan centres, and though he's comfortable with a tablet and the conveniences of 2087 he can be a touch too trusting online, sometimes clicking the flashy messages that land in his inbox, a sociable, practical man who prefers routine but won't miss an opportunity to travel."
+  }
+]
