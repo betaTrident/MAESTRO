@@ -26,7 +26,7 @@ from orchestator import (
 )
 
 
-DEFAULT_DATA_ROOT = Path("data")
+DEFAULT_DATA_ROOT = Path("data") #Default Data Root
 DEFAULT_OUTPUT_ROOT = Path("outputs")
 MAX_RECENT_TX_CONTEXT = 8
 MAX_COMMS_CONTEXT = 6
